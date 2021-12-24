@@ -14,6 +14,7 @@ Outline:
 	- Basics of worshipping Many Gods
 	- Recommended supplies for the book
 	- Starting ritual: A prayer for beginnings
+	
 - Foundations
 	- What is a God, anyway?
 	- Plato's Laws and the differences between theism and atheism
@@ -24,6 +25,11 @@ Outline:
 		- Home in an age of apartments and transience
 		- Ancestor worship without being creepy about heritage
 	- Practice: Find a shelf and introduce yourself to the household Gods
+	
+https://kallisti.blog/2019/03/14/pie-in-the-sky-interpretatio-and-divine-uncertainty/ (are all Gods the same?)
+https://kallisti.blog/2018/05/11/household-worship-brass-tacks-style/
+https://kallisti.blog/2021/02/05/healthy-reverence-and-ancestral-traditions/
+	
 - Selecting Gods
 	- Factors to keep in mind when making your choice
 		- Cultural
@@ -35,6 +41,14 @@ Outline:
 	- Platonic position on seira and the in-series/out-of-series incarnations and how murky that can get
 	- You are probably not the Chosen One
 	- Practice: Make a choice of one or two Gods to worship using some of the methods above
+	
+https://kallisti.blog/2019/11/26/just-do-it/ (picking a God, chosenness)
+https://kallisti.blog/2020/08/15/how-to-find-a-patron-god/ (how to find a patron god)
+https://kallisti.blog/2021/11/28/seira-transformative-experiences-and-spiritual-materialism/ (picking a God)
+https://kallisti.blog/2020/10/21/offspring-of-the-gods-something-from-proclus-commentary-on-platos-timaeus/ (picking a God, theology, chosenness)
+https://kallisti.blog/2021/02/11/two-quotations-van-den-berg-on-proclus-not-being-athenian-and-what-that-means-for-sympatheia-and-proclus-prose-prayer-to-the-gods-in-the-parmenides-commentary/ (appropriation)
+http://kallisti.blog/2021/09/17/advice-about-honoring-gods-for-the-anxious/
+	
 - Ritual Purity
 	- Physical purity
 		- Showering
@@ -54,6 +68,12 @@ Outline:
 		- Sickness: If you are having an acute sickness, do not pray if you cannot otherwise get up to do ordinary household things without feeling ridiculously unwell. If you have a chronic illness and are having a flare-up, do not pray. I also recommend establishing a low-energy prayer routine, medium-energy prayer routine, and high-energy prayer routine so your practice can fit the rhythm of the condition you are managing.
 	- If you join an initiatory tradition, some of these things may not apply because the initiatory tradition will have specific protocols for you
 	- Exercise: Do a brief meditation or grounding and centering exercise, then pray to a household God, ancestors, or one of the Gods you have picked after the previous chapter. See how taking pause impacted you.
+	
+https://kallisti.blog/2019/07/21/purification-and-how-we-talk-about-it/
+https://kallisti.blog/2020/02/15/drying-rosemary-for-purification-water/
+https://kallisti.blog/2017/01/22/coda-blood-crimes-purification-ceremonies-and-the-eumenides/
+https://kallisti.blog/2017/02/24/two-old-kallisti-posts-1-the-relationship-between-the-eumenides-and-purification-2-a-plug-for-worshipping-the-erinyes/
+	
 - The Mechanics of Devotional Activity
 	- Connecting to the God(s)
 	- Requesting things from the God(s)
@@ -66,6 +86,10 @@ Outline:
 	- Example daily prayer
 	- Example new moon prayer
 	- Exercise: Create your own outline for a 5-10 minute prayer and offer that prayer in ritual. Make any edits you need to make, and ensure that a copy of that ritual outline (with all components) is on your phone or eReader so you can access it on the go
+	
+https://kallisti.blog/2019/08/03/what-you-can-do-in-10-15-minutes/ (offerings)
+https://kallisti.blog/2020/07/18/a-miscellany-of-quotations-proclus-discusses-prayer-in-book-ii-of-the-timaeus-commentary/ (prayer and theological underpinnings)
+	
 - Establishing a Prayer Routine
 	- Easy and difficult aspects of routine
 	- Morning prayers
@@ -74,10 +98,14 @@ Outline:
 	- Weekdays, weekends
 	- Routine disruptions and having a plan
 	- Exercise: Decide when you will pray every day
+	
+https://kallisti.blog/2020/03/27/prayers-for-other-people/
+	
 - Theological Underpinnings
 	- Theistic practice is different from a philosophical commitment. My philosophical commitment is Platonism. Yours could be Yogic philosophy, Stoicism, or another school. We have practice in common even though our underpinnings may be different
 	- The reading path I took in Platonism and how you can build a self-study path, if interested
 	- If you're not intereseted in self-study, how to get a baseline understanding to prepare yourself for conversations about spirituality
+	- Myths and theology
 	- Pitfalls: Avoid atheizing/commercializing stuff
 	- Reincarnation in Platonic thought
 		- Choices of lives
@@ -87,6 +115,9 @@ Outline:
 	- Commentary on Sallust using other Platonists to support what I am saying about Sallust
 	- A walk through one of my prayers to all of the Gods to talk about what is happening at each level of the prayer
 	- Exercise: Craft an "elevator pitch" about your spiritual practice for the Gods, with the goal of informing the person you are talking to about your values and goals
+
+https://kallisti.blog/2021/02/27/every-goddess-is-good/	
+
 - Virtue
 	- Its place in Platonism, hiearchy of virtues, and so on
 	- Worshipping Many Gods and trying to be a good person
@@ -98,6 +129,7 @@ Outline:
 		- What have you been avoiding?
 	- Taking care of your mental health
 		- Therapy
+		
 - Groups
 	- What does "group" mean?
 	- Family practice
@@ -117,9 +149,15 @@ Outline:
 	- Parasociality, acquaintanceship, and friendship
 	- Exercise: Research 2-3 groups, either tradition-specific or not, to investigate. What are their values? Are there checks and balances in their bylaws? What is the governance structure? Do they require any specific theological beliefs, or are they practice-focused? Are they based in your local community or online? Do they engage in any cultural appropriation red flags?
 	- Exercise: Identify what you want in online or in-person polytheist friends. What are your dealbreakers? Where are you willing to look?
+	
+http://kallisti.blog/2021/10/30/raising-kids-in-a-polytheist-household/
 		
 - Appendix I: Getting Ritual Supplies on a Tight Budget
+https://kallisti.blog/2019/01/13/the-value-of-a-minimalist-approach-to-shrines/
+https://kallisti.blog/2018/05/11/household-worship-brass-tacks-style/
+
 - Appendix II: Sample low-, medium-, and high-energy daily rituals
 - Appendix III: Sample Solstice Rituals
 - Appendix IV: Sample new moon ritual, sample full moon ritual
-- Appendix V: How to build a ritual
+- Appendix V: Sample activities as you go through the calendar year and lunar months, plus some guiding questions for your practice
+- Appendix VI: How to build a ritual
