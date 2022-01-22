@@ -96,21 +96,35 @@ When starting a contemplative practice, I recommend having a plan: Know when you
 
 ### Contemplating the Divine
 
-I do daily meditation as basic mental hygiene, as do many people — ten-minute shower, ten minute-meditation, and my body and mind are ordered and ready to face the world. If we want to reach inside and open the gate to the statues within, and rest in the Gods who wait just beyond our breath, our focal points need to shift.
+I do daily meditation as basic mental hygiene, as do many people — ten-minute shower, ten minute-meditation, and my body and mind are ordered and ready to face the world. If we want to reach inside and open the gate to the statues within, and rest in the Gods who wait just beyond our breath, we need a different set of foocal points.
 
-Generally speaking, mindfulness meditations in which one follows the breath are excellent for many people because they're like a brain shower, and they often improve mental fitness. Connecting with Gods in a contemplative manner may include some elements of these breath-centric meditations. However, as the object of the meditation is a deity, there are other elements that may hold sway, too.
+Contemplating a God may include some elements of these breath-centric meditations. However, as the object of the meditation is a deity, there are other elements that may hold sway, too.
 
-First, instead of focusing on your breath, you might focus on a deity, household spirit, or ancestor you want to connect with — and don't worry if you don't know *who* quite yet. This can be made a bit easier by using an image. If you have a smartphone, put your phone in airplane mode and make sure you have a few images in your photos. Create a dedicated folder so you can find them easily. My Android phone has a feature that keeps the phone on when I'm looking at it, and if yours can do similar, all you have to do is pull up one of those photos and make sure your phone can see you. You could also purchase a bookmark or postcard featuring the deity, use a printout image, or invest in artisinal divine images. We'll talk about those things later — do not look at Etsy quite yet. It works well if the deity is looking out of the image towards you because you have the illusion of eye contact. While focusing on the deity, just breathe. You can close your eyes if you like while holding the image in your mind.
+#### Contemplating the Divine Being
 
-Second, you could contemplate a myth or other text. This could be done in a traditional meditation, with a pen and paper at a desk, or at a computer — just airplane your phone and ensure that you are difficult to contact while you're working through things. Say a small, heartfelt prayer to the God(s) in the myth. Read the passage you want to work with and jot down your thoughts. Highlight any passages you want to spend extra attention on, and pause whenever inspiration strikes. You can come back to the same story many times. You can use specific passages from your notes as seeds for a seated meditation. Sometimes, if you alternate between taking notes on myths and contemplating a divine image, elements of the myth will arise spontaneously in the mind while you are doing the seated meditation on the divine being.
+Instead of focusing on your breath, you might focus on a deity, household spirit, or ancestor you want to connect with — and don't worry if you don't know *who* quite yet. 
 
-Third, for those who have exposure and practice with other forms of meditation, doing pranayama or using traditional meditation techniques can sometimes be adapted to a contemplative spiritual practice like this. Sometimes, I do breath of fire (kapalbhati) before contemplating a God. I do meditative visualizations in which sunlight, starlight, or moonlight are filling the body, depending on the context — honoring the solstice or full moon, for example. There are also techniques called "grounding and centering" that I learned growing up in which a person envisions that they are rooted into the ground like a tree, drawing up nourishment from the Earth, and drawing down energy from the sun or sun and stars as the centerpoint of this structure. It can be beneficial to do techniques like that if I am feeling scattered and distracted.
+This can be made a bit easier by using an image. If you have a smartphone, put your phone in airplane mode and make sure you have a few images in your photos. Create a dedicated folder so you can find them easily. My Android phone has a feature that keeps the phone on when I'm looking at it, and if yours can do similar, all you have to do is pull up one of those photos and make sure your phone can see you. You could also purchase a bookmark or postcard featuring the deity, use a printout image, or invest in artisinal divine images. We'll talk about those things later — do not look at Etsy quite yet. It works well if the deity is looking out of the image towards you because you have the illusion of eye contact. 
 
+While focusing on the deity, just breathe. You can close your eyes if you like while holding the image in your mind. Using your meditation or phone timer is useful here.
 
+Often, when I meditate on a God, I start with prayer beads. Because I do not craft, I have purchased these beads, often from sellers on Etsy or another site for small businesses and artisans. The beads that work best for me for most contemplations are short strings with between nine and twenty beads. I have selected short phrases from content I have come across for various Gods, and I have pored through other texts to find short snippets that I want to use in some other cases. A few sets of prayer beads I purchased came with prayers, and I use those prayers (with modifications). After chanting for several minutes, I come into stillness while maintaining mental focus on the God.
 
-One reason I'm keeping this section short and referring to others is that I am a ritualist. Most meditation techniques I use are adapted from study with little to no innovation. The ones that *are* unique (or that have my own unique spin on them) involve contemplating the universe, and especially in the context of Apollon and Platonism, and are thus less appropriate for a resource like this.
+Sometimes, I don't start with prayer beads. I start by reading a poem (often, a hymn translation) for the God or thinking about aspects of the Gods in epithets and culture before I drop into stillness. I find that this is grounding — like the image, it improves my focus.
 
-Fortunately for me, most of this book is about ritual.
+#### Contemplating a Text
+
+You could contemplate a myth or other text. This could be done in a traditional meditation, with a pen and paper at a desk, or at a computer — just airplane your phone and ensure that you are difficult to contact while you're working through your thoughts. 
+
+Say a small, heartfelt prayer to the God(s) in the myth. Read the passage you want to work with and jot down what comes to mind. Highlight any passages you want to spend extra attention on, and pause whenever inspiration strikes. You can come back to the same story many times. You can use specific passages from your notes as seeds for a seated meditation. Sometimes, if you alternate between taking notes on myths and contemplating a divine image, elements of the myth will arise spontaneously in the mind while you are doing the seated meditation on the divine being.
+
+#### Breathwork and Adapted Meditation Techniques
+
+For those who have exposure and practice with other forms of meditation, doing pranayama or using traditional meditation techniques can sometimes be adapted to a contemplative spiritual practice like this. 
+
+Sometimes, I do breath of fire (kapalbhati) before contemplating a God. I do meditative visualizations in which sunlight, starlight, or moonlight are filling the body, depending on the context — honoring the solstice or full moon, for example. 
+
+There are also techniques called "grounding and centering" that I learned growing up in which a person envisions that they are rooted into the ground like a tree, drawing up nourishment from the Earth, and drawing down energy from the sun or sun and stars as the centerpoint of this structure. It can be beneficial to do techniques like that if I am feeling scattered and distracted.
 
 ## Ritual Practices
 
@@ -122,7 +136,12 @@ Fortunately for me, most of this book is about ritual.
 
 ### Ancestor worship without being creepy about heritage
 
-## Practice: 
+## Practice
+
+### Household Prayer
 
 Find a shelf and introduce yourself to the household Gods
 
+### Meditation
+
+This meditation is based on an exercise from one of Plotinus' *Enneads*.
