@@ -76,11 +76,27 @@ Because the Gods care for us, and because they are more expansive than us, they 
 
 ## Contemplative Practices
 
-Even without setting aside physical space for spiritual practices, it is possible to connect with Gods through contemplative techniques. The title of this primer, *The Soul's Inner Statues*, likely appeals to an audience that has tried out some type of meditation — perhaps using the Headspace or Calm apps, perhaps pranayama in a yoga class, and almost definitely the practice of taking a few deep breaths before or after engaging with something difficult.
+Even without setting aside physical space for spiritual practices, it is possible to connect with Gods through contemplative techniques. The title of this primer, *The Soul's Inner Statues*, likely appeals to many people who have tried some form of contemplation or breathwork because the title names the soul and evokes some kind of interior spiritual experience. You may have tried a form of meditation using the Headspace or Calm apps, pranayama techniques in a yoga class, and almost definitely the occasional practice of taking a few deep breaths before or after engaging with something difficult.
 
-If you haven't tried meditation techniques, or if they seem very difficult, I recommend trying Anusha Wijeyakumar's *Meditation with Intention: Quick and Easy Ways to Create Lasting Peace*. An experienced meditator, Wijeyakumar seeks to provide useful foundations for anyone, no matter the hurdles you may have experienced before. Otherwise, to time a meditation, you can use a dedicated phone app, the timer on your a watch or fitness tracker, the timer function in your clock app (with a non-jarring timer noise), or even a classic physical timer. Headspace and other paid apps have trials that you can use if you want some guided direction when just starting out. You may even have access to apps like Sanvello (which includes meditation timers) through your workplace or insurance benefits.
+### Foundations
+
+If you haven't tried meditation techniques, or if your experiences have not been what you wanted, here is some good news: there are many types of contemplative techniques, not all of which require sitting down and focusing on the breath, and online instructional materials are widely available for many types of practices. Breathwork techniques, chanting phrases, and adopting focal-point-based concentration exercises are some of the most widespread options.
+
+Here are a few resources to get started:
+
+* Anusha Wijeyakumar's *Meditation with Intention: Quick and Easy Ways to Create Lasting Peace* seeks to provide useful foundations for anyone, including those who have experienced hurdles. I took note of her book when I saw praise from people who expressed difficulty meditating with instruction they'd tried before.
+* Headspace, Calm, Healthy Minds Program, or another meditation app. Calm and Headspace offer free trials, and Healthy Minds is free. Core features of these apps focus on mindfulness meditation. You may also have access to mental wellness apps like Sanvello (which includes meditation timers) through your workplace or insurance benefits.
+* For people interested in Stoicism, try out [Donald Robinson's four Stoic meditation exercises](https://donaldrobertson.name/2018/03/27/four-stoic-meditation-exercises/) [(and here's an archival link)](https://web.archive.org/web/2021*/https://donaldrobertson.name/2018/03/27/four-stoic-meditation-exercises/) or [the meditation app Stoa](https://stoameditation.com/).
+* If you're curious about contemplative activities in Platonism (again, this is my bias), I recommend Mindy Mandell's *Discovering the Beauty of Wisdom*, which contains some contemplative techniques.
+* David Nowakowski has made [a primer on techniques available on his website](https://davidnowakowski.net/meditation/), and I recommend reading those resources. [(Here's an archival link.)](https://web.archive.org/web/2021*/https://davidnowakowski.net/meditation/) 
+
+To time a meditation, you can use a dedicated phone app, the timer on your a watch or fitness tracker, the timer function in your clock app (with a non-jarring timer noise), or even a classic physical timer. Headspace and other paid apps have trials that you can use if you want some guided direction when just starting out. 
 
 When starting a contemplative practice, I recommend having a plan: Know when you will do it, which tool you will use to time it, and the technique(s) you will use during the brief period.
+
+### Meditating on Gods
+
+I do daily meditation as basic mental hygiene, as do many people.
 
 Generally speaking, mindfulness meditations in which one follows the breath are excellent for many people because they're like a brain shower, and they often improve mental fitness. Connecting with Gods in a contemplative manner may include some elements of these breath-centric meditations. However, as the object of the meditation is a deity, there are other elements that may hold sway, too.
 
@@ -90,7 +106,7 @@ Second, you could contemplate a myth or other text. This could be done in a trad
 
 Third, for those who have exposure and practice with other forms of meditation, doing pranayama or using traditional meditation techniques can sometimes be adapted to a contemplative spiritual practice like this. Sometimes, I do breath of fire (kapalbhati) before contemplating a God. I do meditative visualizations in which sunlight, starlight, or moonlight are filling the body, depending on the context — honoring the solstice or full moon, for example. There are also techniques called "grounding and centering" that I learned growing up in which a person envisions that they are rooted into the ground like a tree, drawing up nourishment from the Earth, and drawing down energy from the sun or sun and stars as the centerpoint of this structure. It can be beneficial to do techniques like that if I am feeling scattered and distracted.
 
-Finally, I recommend engaging with a few other resources to learn more about contemplative tools. The Platonist Mindy Mandell wrote a book that goes into more depth on Platonic teachings, and she includes a wealth of contemplative practices in it — *Discovering the Beauty of Wisdom*. David Nowakowski has made [a primer on techniques available on his website](https://davidnowakowski.net/meditation/), and I recommend reading those resources. [(Here's an archival link.)](https://web.archive.org/web/2021*/https://davidnowakowski.net/meditation/) There are many Stoic exercises that you can use, theistic and nontheistic, both online and in popular books.
+
 
 One reason I'm keeping this section short and referring to others is that I am a ritualist. Most meditation techniques I use are adapted from study with little to no innovation. The ones that *are* unique (or that have my own unique spin on them) involve contemplating the universe, and especially in the context of Apollon and Platonism, and are thus less appropriate for a resource like this.
 
