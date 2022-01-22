@@ -34,7 +34,7 @@ What are the definitions you have heard for the term *God*? How do they differ f
 
 Try looking up the divine beings in a variety of traditions. What are the similarities? Differences? How well does the term *God* fit what you see?
 
-## Theism and Atheism
+## Mindset Lessons from Plato
 
 Speaking as someone who comes at worshipping many Gods from Platonism, there is a passage from Plato's *Laws* that deftly captures the differences between theism and atheism. Plato's *Laws* is a long city-soul analogy that describes how parts of the soul function in an embodied context, and it was questionably complete when Plato died — some parts of it seem rushed, and some analogies that are stridently hammered through by the speakers in later books are not as deftly scaffolded in as they are in Plato's other works.
 
@@ -96,9 +96,7 @@ When starting a contemplative practice, I recommend having a plan: Know when you
 
 ### Contemplating the Divine
 
-I do daily meditation as basic mental hygiene, as do many people — ten-minute shower, ten minute-meditation, and my body and mind are ordered and ready to face the world. If we want to reach inside and open the gate to the statues within, and rest in the Gods who wait just beyond our breath, we need a different set of foocal points.
-
-Contemplating a God may include some elements of these breath-centric meditations. However, as the object of the meditation is a deity, there are other elements that may hold sway, too.
+I do daily meditation as basic mental hygiene, as do many people — ten-minute shower, ten minute-meditation, and my body and mind are ordered and ready to face the world. If we want to reach inside and open the gate to the statues within, and rest in the Gods who wait just beyond our breath, we need a divine set of focal points.
 
 #### Contemplating the Divine Being
 
