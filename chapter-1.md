@@ -94,9 +94,9 @@ To time a meditation, you can use a dedicated phone app, the timer on your a wat
 
 When starting a contemplative practice, I recommend having a plan: Know when you will do it, which tool you will use to time it, and the technique(s) you will use during the brief period.
 
-### Meditating on Gods
+### Contemplating the Divine
 
-I do daily meditation as basic mental hygiene, as do many people.
+I do daily meditation as basic mental hygiene, as do many people — ten-minute shower, ten minute-meditation, and my body and mind are ordered and ready to face the world. If we want to reach inside and open the gate to the statues within, and rest in the Gods who wait just beyond our breath, our focal points need to shift.
 
 Generally speaking, mindfulness meditations in which one follows the breath are excellent for many people because they're like a brain shower, and they often improve mental fitness. Connecting with Gods in a contemplative manner may include some elements of these breath-centric meditations. However, as the object of the meditation is a deity, there are other elements that may hold sway, too.
 
