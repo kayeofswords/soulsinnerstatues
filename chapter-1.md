@@ -126,15 +126,56 @@ There are also techniques called "grounding and centering" that I learned growin
 
 ## Ritual Practices
 
+Ritual practices are everywhere in contemporary culture — glossy checkout magazines, online-only publications offering the gamut of self-care options, pop culture spirituality blogs, mainstream occult practices, and so on. The app I currently use for personal development (the Fabulous App) calls my morning, workday, and evening routines “rituals” — and there wasn't even a preexisting option for adding “prayer” to a routine.
+
+In *The Soul's Inner Statues*, we will use “ritual” to mean the activities we do to connect with Gods, divinities, and those who have come before us. A ritual in this context is a set of routine practices we use when engaging in this type of activity.
+
+It is possible to pray without something being a ritual. Sometimes, when I am outside after work in the winter, I see the rising full moon, and I often murmur a quick prayer. There is no ritual involved in that spontaneous reverence.
+
 ## Hearth, home, and ancestors
+
+Who you pray to out of affinity — this God, that Goddess, someone else — are often like friendships that change and fade over time. A few are continuous, and many are transient. Household worship is very different because you live somewhere. Even if you are in a liminal space — without a home, living in a dorm, or traveling — there are Gods who preside over liminal spaces who can be deeply enriching to pray to.
+
+The core element of household worship is making offerings to household Gods, often a hearth Goddess and one or more divinities who preside over things like property, storerooms, or abundance. Examples of these divinites are the Lares and Penates (Roman), house wights (various places), Agathos Daimon (Greek, meaning “good spirit/intermediary”), Tykhe or Fortuna (Greek and Roman), the Kitchen God (Chinese folk religion), or a household-focused aspect of a God. Every God technically is a unique perspective on the entirety of everything, so technically speaking, you could worship any of them as your household God. However, the specific expressions of how a God is or was worshipped are very powerful expressions of how that God operates in the world, especially if you have never worshipped them before. Some Gods with well-established household aspects, like Apollon, Zeus, and Hermes, have specific household functions — Zeus of the storeroom, for example, is literally the God who keeps your cozy duvet inserts and tea safe; Apollon of the Streets protects public spaces and harmonizes the home with the exterior world through the threshold boundary. Hermes, as a liminal God, is highly relevant to boundaries.
+
+Household worship can involve acknowledging ancestors of affinity or heritage. Depending on your ancestry and your relationship with said ancestors, household worship could involve some syncretism. For example, I pray to several hearth Goddesses right now: Frigg (Nordic), Nantosuelta and Brigando (both Celtic-Gaulish), and Hestia (Greek). I primarily worship Gods of the Greek pantheon despite not being Greek, and years after I started worshipping Hellenic Gods, I started exploring what it would be like to pray to deities related to my roots. Frigg was a certainty; less is known about the religious spheres of Gaulish Gods, so Nantosuelta and Brigando are more like a fact-finding mission based on things I've seen others do. It's okay to do fact-finding or to not be sure when one is just starting out — or even to revisit long-held practices that one never worked through systematically before.
+
+
+
+For reflection:
+
+1. Do you already know of any hearth deities? What about home divinities? 
+2. Who interests you the most?
 
 ### Hearth and its symbolism
 
 ### Home in an age of apartments and transience
 
-### Ancestor worship without being creepy about heritage
+Household worship, from a practical standpoint, can be very simple. I have maintained a sacred space in my living area since I was twelve or so. In eighth grade, I made a bench in shop class that became my small floor-level shrine until I went to college, when I lived in the dorms. Incense and candles were forbidden for fire safety reasons, but I often had a small space on my bookshelf that was marked as "sacred" — even if I often neglected it. As most young adult students do, I moved a lot: dorm room to dorm room, apartment to apartment, between my family's home and transient student spaces.
+
+### Worship without being creepy about heritage
 
 ## Practice
+
+In the introduction, I recommended clearing off a shelf or small space to use for a household shrine. During Chapter One's practice, you will make use of this space.
+
+Sometimes, no matter what, we run into challenges setting aside space. If you live in a college town, May is a great time to find tables and shelves cheaply (or for free), as students are leaving, and many of them are on tight deadlines. FreeCycle and other no-buy groups are other options. If this is not possible, make space on your floor or wall that you can dedicate to the Gods.
+
+If you are unable to establish a permanent shrine space, create a folder on your smartphone with images of the hearth Goddesses and divinities of interest to you. Turn on the phone feature that keeps the phone screen on when you're looking at it. Put the phone on a stand on a clean surface, full-screen the image after airplaning your phone, and offer prayers in front of the image.
+
+What you place in your household shrine depends on what you can afford. Appendix I contains some recommendations for different budgets.
+
+You need:
+
+* Something for pouring liquid.
+* Something to pour liquid into.
+* The name of the deity you're worshipping (post-it note or something fancier).
+
+That's it.
+
+Often, especially when we're looking at ritual space stock photography or the spaces of people who have committed disposable income to pricier items, we see beautiful statuary and intricate spaces. This helps, but it's not necessary – and, given the climate crisis, it makes sense to be deliberate about purchases instead of contributing to overconsumption. Once you have a good idea that you want to worship someone and have maintained the habit for long enough, go ahead and think about images.
+
+The bare minimum you need for worshipping someone is their name. In antiquity, when people were pouring libations and making sacrifices on altars, the altar was marked with the name of the God or Gods. It is like having something in the *to:* field.
 
 ### Household Prayer
 

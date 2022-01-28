@@ -28,6 +28,7 @@ Outline:
 	
 https://kallisti.blog/2019/03/14/pie-in-the-sky-interpretatio-and-divine-uncertainty/ (are all Gods the same?)
 https://kallisti.blog/2018/05/11/household-worship-brass-tacks-style/
+
 https://kallisti.blog/2021/02/05/healthy-reverence-and-ancestral-traditions/
 	
 - Selecting Gods
@@ -73,6 +74,10 @@ https://kallisti.blog/2019/07/21/purification-and-how-we-talk-about-it/
 https://kallisti.blog/2020/02/15/drying-rosemary-for-purification-water/
 https://kallisti.blog/2017/01/22/coda-blood-crimes-purification-ceremonies-and-the-eumenides/
 https://kallisti.blog/2017/02/24/two-old-kallisti-posts-1-the-relationship-between-the-eumenides-and-purification-2-a-plug-for-worshipping-the-erinyes/
+
+https://kallisti.blog/2018/05/11/household-worship-brass-tacks-style/
+
+> The biggest thing to remember is that any ancestor or Chthonic god veneration should be kept separate from the place where you honor the heavenly and world-surface gods. Ideally, you would even use separate libation vessels and receptacles. In household worship, many make offerings to Ouranic deities according to specific lunar calendar cycles, and this can be done at the household shrine. The spaces for Chthonic gods and ancestors could legit be on a shelf just below the one you keep for the household gods.
 	
 - The Mechanics of Devotional Activity
 	- Connecting to the God(s)
@@ -155,6 +160,10 @@ http://kallisti.blog/2021/10/30/raising-kids-in-a-polytheist-household/
 - Appendix I: Getting Ritual Supplies on a Tight Budget
 https://kallisti.blog/2019/01/13/the-value-of-a-minimalist-approach-to-shrines/
 https://kallisti.blog/2018/05/11/household-worship-brass-tacks-style/
+
+> What you place in your household shrine depends on what you can afford. If you are hurting for money, save and clean several glass jars you use for pasta sauce and other things. These can function as receptacles for libations or the vessels for making a libation.
+
+> If you have a bit of money, look in a thrift store for jars, pitchers, and nice bowls. (That’s also a good time to pick up candle holders and candles.) If you have disposable income that you can use to invest in the polytheist community, Etsy is generally the place to go for finding Hellenic artisans and artists who make some very beautiful and functional religious stuff. <a href="https://www.etsy.com/shop/TheHellenicHandmaid?ref=l2-shopheader-name">The Hellenic Handmaid</a> is a great resource for libation receptacles.
 
 - Appendix II: Sample low-, medium-, and high-energy daily rituals
 - Appendix III: Sample Solstice Rituals

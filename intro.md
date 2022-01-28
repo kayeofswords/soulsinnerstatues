@@ -34,7 +34,7 @@ This book is about taking that statement — again, *two to ten minutes is achie
 
 Each of these chapters contains small exercises designed to connect you to an aspect of the topic under investigation. Additional rituals and frameworks are included in the appendices, including a plan for annual rhythms that you can adapt to the context you need. This is the third mainspring: consciously choosing to engage in even the smallest practices can be a source of joy and a safe harbor for your inner light.
 
-Sometimes, you will need materials. I recommend having a small bowl on hand, a vessel (like a jar) that contains water, and a slip of paper. If you can clear off a part of one shelf, that is ideal.
+Sometimes, you will need materials. I recommend having a small bowl on hand, a vessel (like a jar) that contains water, and a slip of paper. If you can clear off a part of one shelf, that is ideal. If not, just use a clean surface and store your prayer materials in a clean box when you're not using them.
 
 You can, of course, be more elaborate. Once we get going with the exercises, you will have opportunities to offer items like incense. When we move from talking about many Gods in the generic to actually choosing who to honor, you may want to purchase icons of those Gods or do research on Etsy to save up for one. This book is open access for a reason. I am aware that we have a variety of economic situations. Cultivating your inner light, and connecting to the Gods, is something that is accessible no matter how simple your prayer space is. One of the appendices documents how to identify useful shrine items at Goodwill, including the cost of getting all of the essentials. 
 
