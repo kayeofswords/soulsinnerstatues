@@ -177,6 +177,8 @@ Often, especially when we're looking at ritual space stock photography or the sp
 
 The bare minimum you need for worshipping someone is their name. In antiquity, when people were pouring libations and making sacrifices on altars, the altar was marked with the name of the God or Gods. It is like having something in the *to:* field.
 
+For a hearth Goddess, I also recommend a small candle. You can use either a traditional lighter or one of the rechargeable electric ones to light it. Some people even use electric candles! There are phone apps that simulate fires and candles, too.
+
 ### Household Prayer
 
 Find a shelf and introduce yourself to the household Gods
