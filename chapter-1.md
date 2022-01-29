@@ -153,11 +153,11 @@ Household worship, from a practical standpoint, can be very simple. I have maint
 
 In Rumi's "[The Guest House](https://www.scottishpoetrylibrary.org.uk/poem/guest-house/)," the poet frames our lives as transitory places:
 
->This being human is a guest house.
+>This being human is a guest house.  \
 >Every morning a new arrival.
 
->A joy, a depression, a meanness,
->some momentary awareness comes
+>A joy, a depression, a meanness,  \
+>some momentary awareness comes  \
 >as an unexpected visitor.
 
 Even before I read that poem, I had been contemplating the idea of our lives as temporary places often — as someone who reads Plato and who holds to Platonic teachings about reincarnations, our families, lineages, and personal contexts change from lifetime to lifetime. There is no steadiness in them. Pardoxically, in Plato and the Platonists, there is a strong emphasis on meeting the context of your current life where it is and paying your respect to Gods and ancestors. This is a lot like being a guest in someone's house: the family may last a long time, and the people, but you will not be there forever, and you need to leave the family better than you found it.
@@ -238,7 +238,7 @@ This meditation is based on an exercise from one of Plotinus' *Enneads* and on s
 
 The passage from Plotinus' *Enneads* is from 5.8.9, and here's how it is translated by Gerson (and note that the pronoun “he” is used for the God, but this could be any deity regardless of gender):
 
-> “So, let us grasp by discursive thinking this cosmos all together as one, each of its parts remaining what it is and not jumbled together, if possible, so that if any one of these should occur to us – for example, the sphere outside the periphery of the cosmos – an image of the sun follows immediately and together with it all the other stars, and earth and sea and all the living beings are seen, as if all these were in reality to be seen in a transparent sphere. Let there be formed in your soul, then, the image of a luminous sphere having all things in it, whether moving or stable, or some moving and some stable.
+> “So, let us grasp by discursive thinking this cosmos all together as one, each of its parts remaining what it is and not jumbled together, if possible, so that if any one of these should occur to us – for example, the sphere outside the periphery of the cosmos – an image of the sun follows immediately and together with it all the other stars, and earth and sea and all the living beings are seen, as if all these were in reality to be seen in a transparent sphere. Let there be formed in your soul, then, the image of a luminous sphere having all things in it, whether moving or stable, or some moving and some stable.  \
 >“Keeping this image, take another for yourself by abstracting the mass from it. Abstract, too, places and the semblance of the matter you have in yourself. Don’t try to take another sphere smaller than it in mass, but call on the god who made that of which you have a semblance, and pray for him to come. And he might come bearing his cosmos with all of the gods in it, being one and all of them, and each is all coming together as one, each with different powers, though all are one by that multiple single power. Rather, it is that one god who is all. For he lacks nothing, if all those gods should become what they are. They are all together and each is separate, again, in indivisible rest, having no sensible shape – for if they had, one would be in one place, and one in another, and each would not have all in himself. Nor do they have different parts in different places, nor all in the identical place, nor is each whole like a power fragmented, being quantifiable, like measured parts. It is rather all power, extending without limit, being unlimited in power. And in this way, the god is great, as the parts of it are all unlimited. For where could one say that he is not already present?”
 
 For this prayer, place a chair or cushion near your shrine to use as a meditation seat. Make a short prayer:
@@ -261,4 +261,4 @@ Now, think of all that you are holding within your mind, and call to mind what i
 
 Whatever comes to your awareness, rest with it until you judge the meditation to be finished. Thank the Gods and put back your chair or cushion.
 
-This exercise is a bit different from what is happening in Plotinus' Ennead 5.8.9, as it fuses the abstraction of his words and their beauty with a contemplation with the universe. However, it can be a powerful visualization practice.
+This exercise is a bit different from what is happening in Plotinus' Ennead 5.8.9, as it fuses the abstraction of his words and their beauty with an expansion into everything visible around us. It can be a powerful visualization practice.
