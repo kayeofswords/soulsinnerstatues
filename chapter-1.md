@@ -140,12 +140,10 @@ The core element of household worship is making offerings to household Gods, oft
 
 Household worship can involve acknowledging ancestors of affinity or heritage. Depending on your ancestry and your relationship with said ancestors, household worship could involve some syncretism. For example, I pray to several hearth Goddesses right now: Frigg (Nordic), Nantosuelta and Brigando (both Celtic-Gaulish), and Hestia (Greek). I primarily worship Gods of the Greek pantheon despite not being Greek, and years after I started worshipping Hellenic Gods, I started exploring what it would be like to pray to deities related to my roots. Frigg was a certainty; less is known about the religious spheres of Gaulish Gods, so Nantosuelta and Brigando are more like a fact-finding mission based on things I've seen others do. It's okay to do fact-finding or to not be sure when one is just starting out — or even to revisit long-held practices that one never worked through systematically before.
 
-
-
 For reflection:
 
 1. Do you already know of any hearth deities? What about home divinities? 
-2. Who interests you the most?
+2. Who interests you the most? Look them up. Alternatively, [look at this list of hearth deities from around the world](https://en.wikipedia.org/wiki/Household_deity#List) — I'm using a Wikipedia link because it's most accessible, but there are definitely cultures that are not represented in this incomplete list.
 
 ### Home in an age of apartments and transience
 
@@ -179,7 +177,7 @@ Being healthy about ancestral traditions is healthy when it comes out of a desir
 
 In the introduction, I recommended clearing off a shelf or small space to use for a household shrine. During Chapter One's practice, you will make use of this space.
 
-Sometimes, no matter what, we run into challenges setting aside space. If you live in a college town, May is a great time to find tables and shelves cheaply (or for free), as students are leaving, and many of them are on tight deadlines. FreeCycle and other no-buy groups are other options. If this is not possible, make space on your floor or wall that you can dedicate to the Gods.
+Sometimes, no matter what, we run into challenges setting aside space. If you live in a college town, May is a great time to find tables and shelves cheaply (or for free), as students are leaving, and many of them are on tight deadlines. FreeCycle and other no-buy groups are other options. If this is not possible, make space on your floor or wall that you can dedicate to the Gods. I found [this post about young South Asians coming to the United States and how they set up their sacred areas to be particularly inspiring for thinking about what one can do with limited space](https://web.archive.org/web/20220103123537/https://religionnews.com/2021/10/13/millennial-hindus-get-creative-with-home-temples-in-cramped-apartments/?utm_source=pocket_mylist).
 
 If you are unable to establish a permanent shrine space, create a folder on your smartphone with images of the hearth Goddesses and divinities of interest to you. Turn on the phone feature that keeps the phone screen on when you're looking at it. Put the phone on a stand on a clean surface, full-screen the image after airplaning your phone, and offer prayers in front of the image.
 
@@ -205,10 +203,62 @@ Other types of offerings include incenses, flowers, and food. If you use incense
 
 Disposing of offerings can be done in a clean sink (for libations) or in your household trash. If you offer food or flowers, the most respectful way to put them in your waste receptacle is to wrap them in paper (like a used grocery bag from the time you forgot your reusable bags) and add them to the trash just before you put it out curbside. If you can compost, that is preferred, but don't worry if you can't — I, too, live in an apartment without that option. If you offer non-fresh goods like dried flowers, rotating them out after six months to a year is auspicious — especially if you do it at about the time of the winter or summer solstice.
 
+If you are setting up a permanent space, be respectful. Never use it for random objects, and encourage any family members or roommates to avoid putting anything there that isn't an offering.
+
 ### Household Prayer
 
-Find a shelf and introduce yourself to the household Gods
+Hopefully, you now have a shelf or other location where you can create a pop-up prayer space. If you have purchased or gathered any items, now is the time to place them there. Clean them, dry them, and arrange them in an ergonomically useful way.
+
+Before praying, I recommend washing your hands. If you are praying after your daily shower, congratulations, you have just discovered habit-stacking.
+
+If you have a candle or other flame representation, light it or turn it on. Keep your elbows at your sides and hold out your forearms with your hands palm-up. Standing up is the common practice, although one can sit if necessary.
+
+Say something like:
+
+> I honor and acknowledge the household Gods, [insert any specific names]. I give you this offering of [whatever you're offering].
+
+Make the offering. If you are doing a libation, this means pouring whatever you have chosen to offer into the bowl. Sometimes, after offering most of something, a person will take a sip of the remainder. 
+
+Take a pause and a few deep breaths.
+
+If you are honoring specific Gods and spirits and know anything about them, this is the time to call to mind those aspects. For Nantosuelta, for example, one might think of her connection to beehives, fire, and Earth — far from just being a Goddess of the home, she has many areas of affinity.
+
+Sometimes, people will recite poems they've found about the deities and divinities they're worshipping, play music, or speak from the heart about what they have going on in their lives. You could do that now if you like.
+
+When done, say:
+
+> Thank you, [insert any specific names or just say "household God(s)"]. May you bless me, my family, my friends, and my communities with whatever is most good, fitting, and appropriate.
+
+Dispose of the offering in a few hours. I like to clean out my offering bowls after I've done dishes in the evening.
+
 
 ### Meditation
 
-This meditation is based on an exercise from one of Plotinus' *Enneads*.
+This meditation is based on an exercise from one of Plotinus' *Enneads* and on something I've done since I was a teenager.
+
+The passage from Plotinus' *Enneads* is from 5.8.9, and here's how it is translated by Gerson (and note that the pronoun “he” is used for the God, but this could be any deity regardless of gender):
+
+> “So, let us grasp by discursive thinking this cosmos all together as one, each of its parts remaining what it is and not jumbled together, if possible, so that if any one of these should occur to us – for example, the sphere outside the periphery of the cosmos – an image of the sun follows immediately and together with it all the other stars, and earth and sea and all the living beings are seen, as if all these were in reality to be seen in a transparent sphere. Let there be formed in your soul, then, the image of a luminous sphere having all things in it, whether moving or stable, or some moving and some stable.
+>“Keeping this image, take another for yourself by abstracting the mass from it. Abstract, too, places and the semblance of the matter you have in yourself. Don’t try to take another sphere smaller than it in mass, but call on the god who made that of which you have a semblance, and pray for him to come. And he might come bearing his cosmos with all of the gods in it, being one and all of them, and each is all coming together as one, each with different powers, though all are one by that multiple single power. Rather, it is that one god who is all. For he lacks nothing, if all those gods should become what they are. They are all together and each is separate, again, in indivisible rest, having no sensible shape – for if they had, one would be in one place, and one in another, and each would not have all in himself. Nor do they have different parts in different places, nor all in the identical place, nor is each whole like a power fragmented, being quantifiable, like measured parts. It is rather all power, extending without limit, being unlimited in power. And in this way, the god is great, as the parts of it are all unlimited. For where could one say that he is not already present?”
+
+For this prayer, place a chair or cushion near your shrine to use as a meditation seat. Make a short prayer:
+
+> I pray to the Gods and give you this offering before my meditation. Be well disposed.
+
+If you have an offering, make it now, and then be seated.
+
+For this meditation, start off by doing a body scan, eyes closed or open. Start the scan at the top of your head, working through parts of the body to see what is comfortable or uncomfortable. Notice the pressure of gravity where you are seated.
+
+Once you have finished the body scan, turn your attention to the boundary between your skin and the air. Envision your awareness expanding from your body and into the room around you. Feel the furniture and become aware of the life within your home's biome. From there, expand your awareness steadily to every room in your home or apartment. If you are in an apartment, expand your awareness to the entire building.
+
+From your building, steadily come to encompass the neighborhood, then the city, and finally your region. Allow your awareness to expand in gradients until you are holding the world in your mind. Examine the differences in climate and ground cover, sunlight levels and depth of night. Rest here for a moment.
+
+When you are ready, expand it outward from the Earth to the Earth-Moon system. Grow through the void to reach the planets of the inner solar system and the Sun, then the asteroid belt and the outer planets, and finally the mass of smaller bodies that make up the frozen fringes of the solar system. Expand your awareness to the nearest star systems, then to the galaxy. Know that we are in a network of galaxies, and expand into that. Eventually, your awareness will encompass all of the honeycombed web of the universe. It is vast in its voids and light oases.
+
+All of this has evolved in time, and it came from a point of indescribably high density. The visible universe was once about the size of a grapefruit. You are containing at least all of this within your awarness.
+
+Now, think of all that you are holding within your mind, and call to mind what it would be without mass. Call to mind all that is, and then imagine it spaceless. Contract all that you have become aware of without giving it mass, shape, or extent in time. Beyond the spatial extent, beyond time, and beyond bodies, there is an inflection point of divinity. As Plotinus wrote so long ago, ask for the God to come.
+
+Whatever comes to your awareness, rest with it until you judge the meditation to be finished. Thank the Gods and put back your chair or cushion.
+
+This exercise is a bit different from what is happening in Plotinus' Ennead 5.8.9, as it fuses the abstraction of his words and their beauty with a contemplation with the universe. However, it can be a powerful visualization practice.
