@@ -147,13 +147,33 @@ For reflection:
 1. Do you already know of any hearth deities? What about home divinities? 
 2. Who interests you the most?
 
-### Hearth and its symbolism
-
 ### Home in an age of apartments and transience
 
 Household worship, from a practical standpoint, can be very simple. I have maintained a sacred space in my living area since I was twelve or so. In eighth grade, I made a bench in shop class that became my small floor-level shrine until I went to college, when I lived in the dorms. Incense and candles were forbidden for fire safety reasons, but I often had a small space on my bookshelf that was marked as "sacred" — even if I often neglected it. As most young adult students do, I moved a lot: dorm room to dorm room, apartment to apartment, between my family's home and transient student spaces.
 
 ### Worship without being creepy about heritage
+
+In Rumi's "[The Guest House](https://www.scottishpoetrylibrary.org.uk/poem/guest-house/)," the poet frames our lives as transitory places:
+
+>This being human is a guest house.
+>Every morning a new arrival.
+
+>A joy, a depression, a meanness,
+>some momentary awareness comes
+>as an unexpected visitor.
+
+Even before I read that poem, I had been contemplating the idea of our lives as temporary places often — as someone who reads Plato and who holds to Platonic teachings about reincarnations, our families, lineages, and personal contexts change from lifetime to lifetime. There is no steadiness in them. Pardoxically, in Plato and the Platonists, there is a strong emphasis on meeting the context of your current life where it is and paying your respect to Gods and ancestors. This is a lot like being a guest in someone's house: the family may last a long time, and the people, but you will not be there forever, and you need to leave the family better than you found it.
+
+When I started to embark on incorporating ancestral practices, it was important to me to do it without being creepy — it's contextual to this lifetime, after all. The goal for anyone in incorporating such practices is to ensure that one is not neglecting important divinities and Gods, and reaching out to ancestral deities is also an act of repair for those of us whose ancestors ruptured ties to Gods by converting to an evangelizing, one-true-way religion. In the popular TV series *The Good Place*, interpersonal obligations were built up through the phrase "what do we owe each other?" — also the title of a philosophical book that presumably is also working through what our web of connections and obligations mean. The way it played out on the TV show involved characters learning etiquette and mutual respect. 
+
+Because we are worshipping Gods and divinities who are individuals and not archetypes, an analogy can be drawn to reaching out to family after an estrangement you inherited from your parents — it may be awkward, it may fail, but it's worth it to try. For example, if one's ancestors lived in areas where they likely had a Lararium (a household shrine for the Lares) eighteen hundred years ago, reestablishing one could be a good step. If your family has lived in an area where people had Lararia eighteen hundred years ago, but you ultimately trace your roots elsewhere, you should also feel empowered to explore having one — you live there. The same goes for many former colonies — in America, almost all of us trace our cultural history to what was going on in Britain four hundred to two hundred years ago when they were an imperial power taking everything from everybody. Those of us (non-Greek) Americans who worship Greek Gods do so because British people really liked them during the Renaissance and Early Modern period, and fluency in Greek literature and its motifs proved someone was cultured even after the texts started to be translated into English. Greece is 1800 miles away from England.
+
+If we want to set boundaries between ourselves and absolutism and intolerance, changing one's worldview to repair such rifts can work wonders. Obviously, there will be some times when the answer is no.
+
+In the *Phaedrus* commentary taken down by Hermias during one of the Platonist Syrianus' lectures fifteen hundred years ago, the text comments that someone will often reincarnate into a family to resolve injustices from generations ago. When we incarnate, we pick what is best for our soul given our options. This can include repairing such ruptures, all the while knowing that we may not even be in the group that benefits from these activities next lifetime.
+
+Being healthy about ancestral traditions is healthy when it comes out of a desire to do what is just and to repair what was broken. We should ask ourselves *how, why, and whom* as prompts to deepen our practice without succumbing to hate, division, and false senses of superiority. Questions like these can also heal a disorienting sense of unplacing when they are approached from a place of compassion, fierce honesty, and care, and while the answers may create some very personalized practices, it will be a personalized ritual practice that is solidly grounded in piety according to what is most just in each person or family's specific case.
+
 
 ## Practice
 
@@ -177,7 +197,13 @@ Often, especially when we're looking at ritual space stock photography or the sp
 
 The bare minimum you need for worshipping someone is their name. In antiquity, when people were pouring libations and making sacrifices on altars, the altar was marked with the name of the God or Gods. It is like having something in the *to:* field.
 
-For a hearth Goddess, I also recommend a small candle. You can use either a traditional lighter or one of the rechargeable electric ones to light it. Some people even use electric candles! There are phone apps that simulate fires and candles, too.
+For a hearth Goddess, I also recommend a small candle or flame representation. You can use either a traditional lighter or a rechargeable electric lighter. Some people even use electric candles! There are phone apps that simulate fires and candles, too.
+
+For a libation, any drink is fine — or you could offer plain water. I buy loose dried tulsi and make a concentrate that I store in the refrigerator. Whenever I want to pray, I pour some into the libation jar I use and add water. I also offer a flavored water concentrate that I like, especially to my ancestral Gods — it feels very intimate to share something that I drink every day. Some people offer wine or other alcoholic beverages. I find that I don't go through the bottles quickly enough to use up all of the alcohol before it goes off, and since I rarely drink, it feels odd to give Gods something that isn't part of my diet.
+
+Other types of offerings include incenses, flowers, and food. If you use incense, be careful of resins — do not burn them indoors on charcoal disks, as there is a carbon monoxide risk. Burning resins outdoors occasionally is fine. Stick and cone incenses are great for daily indoor use, and some companies have low-smoke incenses. If you use essential oils in an oil diffuser in your offering space, please check that your oil is pet-safe if you have animals — vets have been more public in recent years about what to choose and avoid. Never use citrus oils around your cat.
+
+Disposing of offerings can be done in a clean sink (for libations) or in your household trash. If you offer food or flowers, the most respectful way to put them in your waste receptacle is to wrap them in paper (like a used grocery bag from the time you forgot your reusable bags) and add them to the trash just before you put it out curbside. If you can compost, that is preferred, but don't worry if you can't — I, too, live in an apartment without that option. If you offer non-fresh goods like dried flowers, rotating them out after six months to a year is auspicious — especially if you do it at about the time of the winter or summer solstice.
 
 ### Household Prayer
 
