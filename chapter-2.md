@@ -106,6 +106,8 @@ Cultural reception, the way I am defining it, refers to how something that origi
 
 Those of us who worship Gods of a culture we're not from likely came across those deities through cultural reception. Importantly, cultural reception may have very little to do with the culture something originated in. However, due to globalization, there are many opportunities for clashes to occur.
 
-## Syncretism
+Syncretism is what happens when you combine belief systems — and sometimes Gods — in a systematic way. It is often contrasted with eclecticism, an anything-goes approach that cares a bit less about how things fit together to form a whole. To use a linguistics analogy, syncretism is a lot like what happens when speakers of multiple languages convene in a single location — at first, there are communication issues, but a way to communicate quickly starts. Eventually, a creole language is produced, with its own vocabulary, grammar, and syntax drawn from all of the components that fed into it. It's very different from speaking multiple languages (the analogy for practicing multiple ways of worship at the same time, but keeping them separate). At some point, the new language is formalized and becomes an institution of its own.
 
-Syncretism is what happens when you combine belief systems — and sometimes Gods — in a systematic way. It is often contrasted with eclecticism, an anything-goes approach that cares a bit less about how things fit together to form a whole.
+Syncretic and eclectic practices are what most of us in America will end up doing — and, if not us, our children. We come from many places, with a vast array of cultural inputs. Almost everything is Americanized eventually, albeit to different degrees, and what matters most is that we stay curious about the Gods and our practice. The world is full of Gods, as Thales said.
+
+## Practice
