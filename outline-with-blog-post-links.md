@@ -83,6 +83,11 @@ https://kallisti.blog/2018/05/11/household-worship-brass-tacks-style/
 	- Connecting to the God(s)
 	- Requesting things from the God(s)
 	- Acknowledging cycles
+	
+	<!-- wp:quote -->
+	<blockquote class="wp-block-quote"><p>There is, of course, a parallel with the sacred tradition which worships the former invisible [numbers] that are the causes of these [visible ones] by naming Night and Day as gods, as well as by delivering those things that commend one to the month and the year, the invocations and self-manifestations. These things are considered not as things to be totted up on one's fingers, but rather as among the things that have divine subsistence — things which the sacred laws of those who serve as priests command us to worship and honour by means of statues and sacrifices. The oracles of Apollo also confirm this, as the stories say, and when these things were honoured, the benefits that result from the periods belonged to human beings, both the benefits of the seasons and those of other [periods] similarly. However, when these things were neglected a condition contrary to nature was the result for everything around the Earth. Not only that, but Plato himself in the <em>Laws</em> (X 899b2) positively shouts out that all these things are gods: seasons, months and years — just like the stars and the Sun. We are introducing no sort of innovation when we say that it is worthwhile to conceive of the invisible powers that are prior to these visible things [as gods]. So much for these matters.</p><cite>Proclus, Commentary on Plato's <em>Timaeus</em>, Book 4 (confusingly, volume 5), 89.15-37, trans. Baltzly</cite></blockquote>
+	<!-- /wp:quote -->
+	
 	- Offerings to the Gods
 		- Incense, first fruits, flowers, libations
 		- Meat/BBQ
