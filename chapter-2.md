@@ -117,3 +117,17 @@ An example of a syncretic (and slightly eclectic — it's a gradient) practice w
 Another example of a syncretic practice would be the fusion of Belesama with Minerva in Roman Gaul. Belesama is a solar Goddess, with strong water associations; she is wisdom-filled, good with words, and radiant. During that historical period, she was seen as the local version of Minerva by Roman authorities, and the worship of the two Goddesses fused together. Belesama and Minerva are distinct Goddesses. I would, based on personal contemplative experience, place Belesama in a similar conceptual space to Apollon, Aletheia, and Helios. Sulis, another Goddess who was syncretized by Romans to Minerva, was also worshipped as Minerva during the Roman occupation. She has more in common with Hygeia and Salus.
 
 ## Practice
+
+Choose one (or more) of the methods listed above for selecting deities. Use resources available to you to learn more. It's OK if it's Wikipedia — check the Talk page of whichever deity's page you land on if you see anything you're really unsure about. The Talk page can be accessed at a link just above the page title, and it shows you what editors have been arguing about while maintaining the page. Other options include looking up terms like "Norse pantheon list of Gods."
+
+Narrow down to one or two deities. Do another search, but just for them. You might use "-tumblr -twitter -pinterest" to remove things from the results if you're using Google.
+
+Here are a few questions to guide you: What kinds of offerings are typically given to this deity? What are their main symbols? Were they worshipped in any specific regions? What kinds of appearances does this God make in pop culture today? Are there any surviving ancient prayers that you could give them?
+
+Once you have done your research, write down the God's name on a piece of paper and go to your small shrine space. After praying to the hearth Gods, pray to one of the Gods you have chosen. Say hello in whatever way comes most naturally to you and give an offering. The offering could be the same one that you gave to the hearth Gods or a different one.
+
+If you know extemporaneous speaking isn't for you, you're welcome to prepare something written to read for the God during this first introductory prayer. You might give your name, the reason you are praying to this deity out of all of your other options, and provide some important information. What would you tell another person you've just met?
+
+After praying, take a few moments to pause.
+
+The information you've learned about the God is also useful for contemplative practices.
