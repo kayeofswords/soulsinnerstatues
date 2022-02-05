@@ -140,6 +140,8 @@ https://kallisti.blog/2021/02/27/every-goddess-is-good/
 	- Taking care of your mental health
 		- Therapy
 		
+<blockquote class="wp-block-quote"><p>[T]he finest and truest of all principles, in my view — which is that for the good person, in the natural order of things, sacrifice to the [G]ods, contact with them by means of prayers and offerings, and religious observance of every kind is at all times finest and best, the most likely to result in a happy life, and far and away the most appropriate thing for [lim]. For the bad person, by contrast, it's just the opposite, since the bad person's soul is unpurified, whereas that of his opposite number is pure. To receive gifts from a polluted source can never be the right thing either for the good [person] or for god, and so, for the unholy, all their labour in connection with the [G]ods is for nothing, whereas for the holy, in all cases, it is time that could not be better spent.</p><cite>Laws, 716d-717a, with some gender-neutral modifications</cite></blockquote>
+		
 - Groups
 	- What does "group" mean?
 	- Family practice

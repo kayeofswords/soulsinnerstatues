@@ -74,7 +74,17 @@ Gods' myths and stories do contain this content frequently — sometimes for sho
 
 Contemplating those stories, and wrestling with what they mean, is something that anyone can do, even without a ritual space. It becomes easier to do with time and attentiveness, and depending on which Gods one worships, one may have more or less intricate puzzles to work through. It is rewarding, though, for overcoming a shallow view of myths.
 
-Because the Gods care for us, and because they are more expansive than us, they have a more secure knowledge of what is good for us, anyway. I could pray to the Gods for money, power, and fame, but if it were granted, would it actually be the best thing for me? Probably not. Studies have shown that there are hard limits on the amount of happiness and fulfillment we can achieve through material and social wealth. Many millionaires, celebrities, and rulers are absolutely miserable, moreso than the general population. In another dialogue, the *Phaedrus*, Socrates and Phaedrus pray at the end for good things — a generic prayer that leaves the specifics of what happens up to the God, one that expresses humility about our human knowledge. The generalized prayer accounts for our lack of knowledge about the future.
+While writing about the ancient world, Andrej and Ivana Petrovic, in *Inner Purity and Pollution in Greek Religion*, quote beliefs of Pythagoras about prayer as recorded by Diodorus Siculus:
+
+<em>Inner Purity and Pollution in Greek Religion, Volume 1, </em>by Andrej and Ivana Petrovic</a>, and they quote Diodorus Siculus saying this about Pythagoras' view on prayers:
+
+>ὅτι ὁ αὐτὸς ἀπεϕαίνετο τοῖς θεοῖς εὔχεσθαι δεῖν τὰ ἀγαθὰ τοὺς ϕρονίμους ὑπὲρ τῶν ἀϕρόνων‎· τοὺς γὰρ ἀσυνέτους ἀγνοεῖν, τί ποτέ ἐστιν ἐν τῷ βίῳ κατὰ ἀλήθειαν ἀγαθόν‎. (10.9.8) Ὅτι ὁ αὐτὸς ἔϕασκε δεῖν ἐν ταῖς εὐχαῖς ἁπλῶς εὔχεσθαι τἀγαθά, καὶ μὴ κατὰ μέρος ὀνομάζειν, οἷον ἐξουσίαν, κάλλος, πλοῦτον, τἄλλα τὰ τούτοις ὅμοια‎· πολλάκις γὰρ τούτων ἕκαστον τοὺς κατ‎’ ἐπιθυμίαν αὐτῶν τυχόντας τοῖς ὅλοις ἀνατρέπειν‎.  /
+  /
+**For he himself [Pythagoras] disclosed that wise men should pray to the gods for the good things for the benefit of the unwise, since the unwise are incapable of understanding what in life is truly good.** (10.9.8) He used to say that it was necessary in prayers to pray simply for the good things, and not to name them individually, such as for instance to pray for power, beauty, wealth, and other similar things. For often each of these things, when those who desired them acquire them, turning against them, totally ruins them.  /
+  /
+(p. 63, emphasis added)
+
+Pythagoras' mindset still rings true. Because the Gods care for us, and because they are more expansive than us, they have a more secure knowledge of what is good for us, anyway. I could pray to the Gods for money, power, and fame, but if it were granted, would it actually be the best thing for me? Probably not. Studies have shown that there are hard limits on the amount of happiness and fulfillment we can achieve through material and social wealth. Many millionaires, celebrities, and rulers are absolutely miserable, moreso than the general population. In another dialogue, the *Phaedrus*, Socrates and Phaedrus pray at the end for good things — a generic prayer that leaves the specifics of what happens up to the God, one that expresses humility about our human knowledge. The generalized prayer accounts for our lack of knowledge about the future.
 
 ## Contemplative Practices
 
