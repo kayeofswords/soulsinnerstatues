@@ -25,7 +25,6 @@ https://kallisti.blog/2017/02/24/two-old-kallisti-posts-1-the-relationship-betwe
 
 https://kallisti.blog/2018/05/11/household-worship-brass-tacks-style/
 
-> The biggest thing to remember is that any ancestor or Chthonic god veneration should be kept separate from the place where you honor the heavenly and world-surface gods. Ideally, you would even use separate libation vessels and receptacles. In household worship, many make offerings to Ouranic deities according to specific lunar calendar cycles, and this can be done at the household shrine. The spaces for Chthonic gods and ancestors could legit be on a shelf just below the one you keep for the household gods.
 
 
 I pray after showering. For me, those habits are linked. Whenever I shower later in the day — for instance, if I've returned from the gym — I immediately think of the prayer beads at one of my shrines.
