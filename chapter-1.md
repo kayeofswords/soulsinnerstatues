@@ -274,3 +274,21 @@ Now, think of all that you are holding within your mind, and call to mind what i
 Whatever comes to your awareness, rest with it until you judge the meditation to be finished. Thank the Gods and put back your chair or cushion.
 
 This exercise is a bit different from what is happening in Plotinus' Ennead 5.8.9, as it fuses the abstraction of his words and their beauty with an expansion into everything visible around us. It can be a powerful visualization practice.
+
+## Time Blocking Exercise
+
+In the above practices, you have done a ritual prayer and embarked on the opening of the way to your soul's inner statues — a beautiful thing to be celebrated. It may feel new, different, and give you a sense of calm (at least, once the awkward feeling of newness fades) — but chances are, you figured out a time to do these exercises that fit into your daily routine.
+
+In Chapter 3, which focuses on purification, I recommend doing prayers right after you do your shower (or whichever freshening up activity you do each day). Chapter 3 will also give you an opportunity to create backup scenarios for when life gets hectic.
+
+Now, though, I want you to think about your morning, afternoon, or evening routine — whichever time you think it is best to pray. And I want you to time block it.
+
+Time blocking could involve post-it notes, notecards, or a piece of paper. You could also use a digital post-it app like Mural, a workflow diagram generator, or anything you are comfortable with.
+
+Think of what your routine is like for the time of day you have chosen. Write down each step, including the amount of time it takes you. This is a private activity, so please do not treat yourself as your aspirational self. If you make your coffee/tea and stand there by your French press entranced by your Twitter feed for twenty minutes, note that down. 
+
+Once you have a realistic image of your routine, you can think about what you want to adjust. The rituals we are discussing in *The Soul's Inner Statues* can be as swift as five minutes. Can you wake up five minutes earlier, or is there time you can adjust? Are there other aspects of your routine that you're unhappy with?
+
+Poke at your routine cards until you find something that is both satisfying and actionable. Transfer the information to a physical sheet of paper (one or two is ideal) and put it where you will see it at that time of day. Try not to change too much — for habit-building, the most lasting change is incremental. Working through *The Soul's Inner Statues* is an example of a habit-building intervention. Once you have made good progress on this for a few weeks, go back to your notes about your routine and pick one other thing to shift. For example, if you want to read more, ensure that there's a book by your coffee/tea setup instead of your phone.
+
+As someone who prays in the morning, avoiding social media is what works for me so I can have that extra prayer time. Because I pray for longer than five minutes, I also wake up earlier — at 6:15 AM instead of 6:45 AM. I like having time to give prayers to a variety of Gods, including Gods of the sacred day in the calendar system I learned in my early 20s, and to sit in contemplation for at least a few minutes. However, I do have that quick ritual routine in my back pocket if I oversleep. Sometimes, I do prayer beads after I brush my teeth and before I go to bed, which lasts only a few minutes unless an idea for a poem comes to me. The timing of your prayer is up to you.
