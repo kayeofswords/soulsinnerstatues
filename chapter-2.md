@@ -62,6 +62,25 @@ When people are saying this genuinely and not deceptively, I believe this means 
 
 In Platonism, the Gods have something called *providential love* (eros pronoetikos) for us — a type of care flowing without cease and without boundaries to all who are open to receiving it. Experiencing bliss or a sense of deep connection in prayer can sometimes be mistaken for chosenness. Having a religious experience, cleaning oneself up, and committing to excellence can also sometimes lean on the idea of chosenness as a self-soothing mechanism — we like to believe that someone else is rooting for us *specifically*, and it's useful to unpack why we may believe that is the case. In addition, maybe we actually just chose a life where we will do a specific set of activities, and a spiritual experience was the jolt that motivated us to finally get done what we had already committed to doing.
 
+### An Important Caveat About Gods’ Functional Roles
+
+Many of us are initially drawn to a deity because they have a specific functional role. It establishes rapport between you and the God before you have first prayed to them, much like how reading a social media profile and learning that you have something in common with someone will usually prime you to treat them charitably.
+
+Often, someone may ask, “so, if I have *x* issue, which deity should I go to?” after they already have a foundational Gods-oriented outlook and ritual shrine. We are conditioned by the media and oversimplify what divine epithets and spheres of influence of a deity mean. (An epithet is like “Apollon the Far-Shooter” or “Apollon the Harmonizer of All” or “Apollon of Delphi” — it marks some specific aspect of a God, and people will often use epithets to praise a deity when starting out a prayer.) Aphrodite is only a Goddess of Love, for example, or Eir is only a Goddess of Healing.
+
+Once we get to know a deity, however, these functional areas start to break down. Apollon is most associated with poetry, music, light, and harmony, and yet I might pray to him for assistance with a family issue. I have worshipped Apollon for decades and can easily access that space within myself, and within the ritual space, that is resonant with the God in a way that facilitates steadiness even when moving into uncharted zones. 
+
+In the Platonic tradition, every God is the totality of everything (“all in all”) while preserving their own unique individuality and oneness. Gods worshipped in a specific part of the world “flow” into conversation with cultures and ethnic groups to produce unique fingerprints of how Gods operate in specific places. A group may be united by a similar outlook when they live very far apart as long as they are united by common narratives and philosophical outlooks. These relationships evolve all of the time, progressing forward in time. We are now living in an era when much of the world is alienated from Gods.
+
+Syrianus, in critiquing Aristotle's *Metaphysics*, Books 13-14, wrote that
+
+>[T]he whole placing of the stars involves much supposition on our part. Thus it is that the fixed stars are arranged in one way according to the Egyptians, but according to the Chaldaeans or the Greeks in another way.  /
+– Syrianus, On Aristotle's Metaphysics 13-14, trans. John Dillon and Dominic J. O'Meara, 2014, 191,23-25
+
+While Gods do not have positions in the sky, when we create traditions surrounding the Gods, and especially when those traditions become cultural forces, humans are pattern-finders. We arrange the Gods in different ways based on our contexts. We may divide up the sky differently, omit some types of stories and deities in favor of others, but the same *potentiality* of divine multitude underlies all of this.
+
+Sometimes, the functional role a deity has traditionally occupied is very important to us long after we've solidified who we worship the most. I have a soft spot for solar and light-related deities.
+
 ## A Chain, Unbroken
 
 In Platonism, there is one other type of divine relationship — something that is not a choice and could never be a choice. In Platonic doctrine, every soul is in the *series* of a specific God. A *series* is a chain that goes from the God through the hierarchies of intermediary spirits, ultimately ending with each of us. Because this is an innate property of every soul, it is not special; because we are each individuals who express that individuality differently, every soul in a series has its unique, particular way in which it is linked to the God that seeds it. This doctrine calls those of us who hold it to probe the paradox of something as ordinary as grass being so individually important.

@@ -69,17 +69,47 @@ Specific traditions may mark the new lunar month (either on the dark or new moon
 
 I give offerings to lunar deities, do a star/celestial grounding and centering practice, and drink water that has symbolically been imbued with moonlight. Someone I know (who is spiritual but not interested in praying to deities) hosted monthly full moon circles with floor cushions, soft music, tea, and the recitation of creative works at one of the local Unitarian Societies. 
 
-**Moonrise** and **moonset** are not often emphasized outside of niche ceremonial practices. Usually, you will need to know these times for determining when the moon is in the sky during your rituals. For example, I know that if I do a full moon ritual past 8:30 PM or so, it will not be visible through my east-facing window when I pray. I also know that, despite the beautiful ambiance of candles at night, that the new moon rises and sets with the sun. The [Time and Date website](https://www.timeanddate.com/moon/) is the best tool to use for this.
+**Moonrise** and **moonset** are not often emphasized outside of niche ceremonial practices. Usually, you will need to know these times for determining when the moon is in the sky during your rituals. For example, I know that if I do a full moon ritual past 8:30 PM or so, it will not be visible through my east-facing window when I pray. I also know that, despite the beautiful ambiance of candles at night, that the new moon rises and sets with the sun. The [Time and Date website](https://www.timeanddate.com/moon/) is the best tool to use for this. When I notice the moon in the sky, day or night, I often take a brief pause and say hi.
 
 If a lunar or solar **eclipse** is visible in your area, it will happen on the full moon (the lunar eclipse) or the dark moon (the solar eclipse). The swallowing of the sun and darkening of the moon are natural effects of the dynamics of the Earth, Moon, and Sun. While I try to see eclipses when they're visible, I don't incorporate them into my rituals. Some religious traditions encourage fasting and purification activities during eclipses.
 
 ### Venerating the Sun
 
-Both the Sun and Moon have Gods and Goddesses, but masculine solar deities are more well-known to people — Gods like Helios, the Unconquerable Sun, Surya, or Ra. However, many cultures have had (and still do honor) a solar Goddess — Belesama, Sul, Sunna, Amaterasu, and others. In my estimation, whether a culture adopts a solar Goddess or God is correlated (with some exceptions) with latitude on Earth. The closer to the equator, or the more blisteringly dry an area's summers, the harsher the sunlight; the farther from it, the more marked its softer impact is on fertility and fecundity.
+Both the Sun and Moon have Gods and Goddesses, but masculine solar deities are more well-known to people — Gods like Helios, the Unconquerable Sun, Surya, or Ra. However, many cultures have had (or still do honor) a solar Goddess — Belesama, Sul, Sunna, Amaterasu, and others. In my estimation, whether a culture adopts a solar Goddess or God is correlated (with some exceptions) with latitude on Earth. The closer to the equator, or the more blisteringly dry an area's summers, the harsher the sunlight; the farther from it, the more marked its softer impact is on fertility and fecundity. If we think back to what was written in Chapter 2, “An Important Caveat About Gods’ Functional Roles,” these distinctions likely evolved on the cultural level because the opening for that specific deity to express a relationship in solar terms was available locally.
 
-We will focus on three types of veneration: the solstices and shifts of seasons, sunrise, and sunset. We already discussed eclipses when treating the moon.
+We will focus on three types of veneration: the solstices and equinoxes, sunrise, and sunset. We already discussed eclipses when treating the moon.
 
-## Praying for What Is Possible
+The **solstices** only happen twice every calendar year. If you are looking for a replacement for other joyous, complicated holidays, celestial mechanics has gifted us with two important days six months apart. The time of greatest darkness and the time of greatest light have different kinds of cultural associations. One of them welcomes in the season of winter, and the other welcomes summer. The beginning of winter is the start of a season of rest and incubation, prefacing the abundant outburst of spring. The beginning of summer starts off the heat and its calamities, but also prefaces the upcoming harvest seasons. Praying to the sun at dawn or sunset on these days — or having a complicated meal with your family — is also accessible to diverse and complicated families with a variety of spiritual beliefs.
+
+For the solistices, consider rotating out any wreaths, dried floral décor, reed diffuser sticks, and other ambient things you have around the home. Going into the solstice with a clean, refreshed home is a beautiful thing. I dedicate a new laurel wreath to Apollon and hang it near my entryway on the winter solstice. Seasonal decorations can be taken out of storage and hung to celebrate. Ambiently, many Americans are used to doing this in December, but less accustomed to it in June; it may take some time for you to acclimate to a summer-season mindset.
+
+The winter solstice is an excellent time to pray to a solar deity, your patrons, and household Gods for good fortune in the season to come. If you can, keep a light-vigil (but be mindful of fire safety if you're using a flame) on the darkest night of the year and welcome the new sun as it rises, heralding the season of renewal. In many traditions, this is a time of gift-giving.
+
+On the summer solstice, pray to the solar deity, your patrons, and household Gods. Summer-solstice prayers can be more apotropaic (meaning, averting ill fortune and calamity). The height of the sun's energy heralds the beginning, or increase, of stormy seasons, as there is a delay between heating and environmental effects. You can also start a gift-giving tradition on the summer solstice.
+
+The **equinoxes** in the spring and autumn are dedicated to the renewal of life and harvest season/dying season respectively. In the spring, you can pray to your household and patron deities for success on your new projects; in autumn, you give gratitude for what the world has brought, be it fruit or life lessons. Of course, there are some exceptions to the “death and the autumnal equinox” thing. Some cultures celebrate the dead during the dog days of Summer or in the latter part of winter. For those of us in the United States, Halloween and All Soul’s Day happen just over a month after the autumnal equinox.
+
+**Sunrise** is most famous for being the time when Pythagoreans greeted the Sun and did their prayers in antiquity. It is an auspicious time for prayer in other traditions, too. During fall and winter, sunrise happens at a time when I'm awake, so I take a few moments to pause and breathe with my eyes closed while facing it once I notice that it has cleared the building, at least on days when the sky is clear. Even this brief pause makes me feel connected to the solar Gods. Sunrise is a good time for reciting chants, contemplating a passage from a myth, philosophical text, or poem, and giving simple libations.
+
+**Sunset** is trickier. For many of us, it happens during our commute. Sunset, or prayers after sunset when you are preparing for bed, are good times to wind down for the night. This is a time that has traditionally been used for journaling and freewriting, so it's useful for doing that, too.
+
+## Other Types of Seasons
+
+* Naming ceremonies for new babies
+* Funerals
+* Work and life milestones
+* Management of acute and chronic illnesses
+* Weddings and commitments
+* Bringing new people into your home
+
+## The Mechanics of a Prayer
+
+https://kallisti.blog/2019/08/03/what-you-can-do-in-10-15-minutes/ (offerings)
+https://kallisti.blog/2020/07/18/a-miscellany-of-quotations-proclus-discusses-prayer-in-book-ii-of-the-timaeus-commentary/ (prayer and theological underpinnings)
+
+
+
+### Praying for What Is Possible
 
 The best time to start praying for something is at the beginning — weeks before you have that exam or performance evaluation when you start to feel the pressure. There is a fable from Aesop called "The Shipwrecked Man and Athene" in which a shipwrecked sailor prays to Athene (his city's patron Goddess) to be saved from the ocean. Another man, swimming by, says, "Pray to the Goddess for success, but move your arms!" — the Gods can open up pathways for us, but we need to commit effort.
 
@@ -87,7 +117,7 @@ Prayers at the last moment may sometimes be answered, but there is nothing stran
 
 One way to make this part of your life is to say a short prayer to major Gods you already pray to whenever you're about to start planning a project or writing a complex, multi-part to-do list. It doesn't need to be fancy, just a few words — and at the end of the project's completion, thank the Gods you prayed to with an offering that is slightly fancier than usual. It's up to you how to interpret *fancy*.
 
-## Praying for What Is Inevitable
+### Praying for What Is Inevitable
 
 Our sun, now a main sequence star, continues to eat her fuel, leaving just a little bit less to use an instant from now. Eventually, she will puff up as a red giant star and swallow many (or all) of her inner planets before her death as a nova billions of years from now. Earth may only be habitable for another billion years maximum — the sun's heat increases with its age, and Earth's core will one day no longer produce the magnetic field that protects Earth's surface from the impact of the solar wind. Any day now for the next 100,000 years, the star Betelgeuse in Orion's Belt could go supernova, and the explosion could be as bright as the half-moon, lasting for several months before fading.
 
