@@ -116,7 +116,9 @@ At least in the United States, the “milestones” by which we measured adultho
 
 In previous chapters, we have focused more on getting you started with prayer than on the mechanics. This chapter has opened the floodgates of possibility, linking that private practice in your home with everything from the rhythms of your life to the cycles of the sun and moon above. If you feel overwhelmed, that is OK: the world is full of Gods, and every moment is teeming with deities, too.
 
-It is so easy to get carried away, so let's take a step back and look at prayer in general again. Prayer is a rhythmic practice through which we connect to the Gods. That active connection and engagement with them is both ordinary and transcendent. If we try to force an “end goal” instead of focusing on the rhythm of our actions and words for the God, we can quickly get in our own way and create stress and friction within the body, mind, and soul. Sure, you may have a dream of a Goddess after praying, but you could also just dream of the grocery store again. 
+It is so easy to get carried away, so let's take a step back and look at prayer in general again. Prayer is a rhythmic practice through which we connect to the Gods. That active connection and engagement with them is both ordinary and transcendent. If we try to force an “end goal” instead of focusing on the rhythm of our actions and words for the God, we can quickly get in our own way and create stress and friction within the body, mind, and soul. Sometimes, people communicate excitedly about dreams filled with divine potency, guided meditations that lead to new and meaningful information, or Gods experienced, but this is not the everyday. Life involves an awful lot of lines and waiting rooms. We can also let our expectations get out of hand.
+
+
 
 ### Praying for What Is Possible
 
