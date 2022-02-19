@@ -2,11 +2,6 @@
 	- Connecting to the God(s)
 	- Requesting things from the God(s)
 	- Acknowledging cycles
-	
-	- Offerings to the Gods
-		- Incense, first fruits, flowers, libations
-		- Meat/BBQ
-		- Disposing of offerings
 	- Opening and closing prayers
 	- Example daily prayer
 	- Example new moon prayer
@@ -93,21 +88,35 @@ The **equinoxes** in the spring and autumn are dedicated to the renewal of life 
 
 **Sunset** is trickier. For many of us, it happens during our commute. Sunset, or prayers after sunset when you are preparing for bed, are good times to wind down for the night. This is a time that has traditionally been used for journaling and freewriting, so it's useful for doing that, too.
 
-## Other Types of Seasons
+## Life Milestones
 
-* Naming ceremonies for new babies
-* Funerals
-* Work and life milestones
-* Management of acute and chronic illnesses
-* Weddings and commitments
-* Bringing new people into your home
+At least in the United States, the “milestones” by which we measured adulthood's seasons have changed dramatically over the past three generations. Rather than progressing from childhood to school to marriage to parenthood to retirement, the length of educational training and the prevailing circumstnaces around us mean that we may miss, or reinterpret, many types of adult milestones.
+
+**Achieving a work or career milestones.** Celebrate with an offering to your professional God(s). Do something special that expresses gratitude for your success. You can also pray to the Gods when you finalize your job goals for the next year. While not exactly a milestone, this is a cycle.
+
+**Bringing new family into your home.** If you have given birth or have adopted a child, or if you have a young relative who needs you to be their guardian, taking a few moments to introduce them to the Gods at the household shrine can be a meaningful way of instilling a feeling of belonging.
+
+**Bringing in a new pet.** While I consider my cat to be my fur baby, pets are not the same as caring for a developing young human being. You can pray to the household Gods and to your patron deity, or you can incorporate any deities who have historically had a role in animal husbandry.
+
+**Naming ceremonies.** If you have named a child, or if someone in your family has taken a new name for any reason, a naming ceremony where Gods and ancestors are invited to give their blessings is a great way to formally mark the occasion.
+
+**Management of acute and chronic illnesses.** Whether you are sick for a few weeks or have a long-term illness with flare-ups, marking the times when you get better with a special ritual can be a great “welcome back” event. I was sick with a bad flu in February 2020 and, after being in bed for 10 days, the first day I was able to light candles at my shrine and pray felt so meaningful. It didn't matter that I had to sit down to gather my strength halfway through. I was there, and I had made it.
+
+**Weddings and commitment ceremonies.** Most people making commitments to a life partner do so in the context of marriage, but that is not the only option — many do commitments because marriage comes with negative financial impacts. Introducing your partner to the household Gods, sharing food with them, and purifying your living space can be incorporated into the ceremony, privately or as part of the larger ritual event.
+
+**Funerals.** The purpose of a funeral is to give the body the rites that properly “send off” the deceased. They are an opportunity to show respect and care — and they should always be done according to the belief system that the person had in life, not what we wish it would have been. I grew up in a conservative area where it was not uncommon for funerals to include a spontaneous plea for religious conversion to the “correct” sect of the prevailing faith, or ones held by people who wanted to bring the deceased back into their faith after apostasy. The deceased was not placed at the center of the ritual, which was horrible. Likewise, when visiting burial plots, stick to making offerings of food, drinks, and flowers that the deceased may have enjoyed.
+
+**Death.** Unlike funerals, honoring a death can be done alone. When one of my coworkers died unexpectedly in late 2021, I lit a candle for her that evening and said a few words. As someone who cries easily, I was too afraid of not holding it together to say anything at her vigil, but privately, with a candle lit and my words directed at her, the tears were not as disruptive. I included her in the names of the deceased when I performed an annual ritual for the Chthonic Gods that February, about two months after her death. Anyone can be honored in this way. It is also a good alternative for those of us who live far from where our ancestors are buried.
+
+**Days of the week.** In English, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday [are related to specific Gods](https://www.merriam-webster.com/words-at-play/saturday-special-word-history). In the Romance languages, the days of the week also come from Gods. Honoring the God associated with the etymology is a great way to tune into the rhythms of the year. 
+
+**Celestial clockwork.** Stars rise, reach their highest point, and set. Planets do, too — and they appear to go through a specific set of constellations along the ecliptic, the Sun's apparent path. Some are fond of tracing the motions of a specific constellation. 
 
 ## The Mechanics of a Prayer
 
-https://kallisti.blog/2019/08/03/what-you-can-do-in-10-15-minutes/ (offerings)
-https://kallisti.blog/2020/07/18/a-miscellany-of-quotations-proclus-discusses-prayer-in-book-ii-of-the-timaeus-commentary/ (prayer and theological underpinnings)
+In previous chapters, we have focused more on getting you started with prayer than on the mechanics. This chapter has opened the floodgates of possibility, linking that private practice in your home with everything from the rhythms of your life to the cycles of the sun and moon above. If you feel overwhelmed, that is OK: the world is full of Gods, and every moment is teeming with deities, too.
 
-
+It is so easy to get carried away, so let's take a step back and look at prayer in general again. Prayer is a rhythmic practice through which we connect to the Gods. That active connection and engagement with them is both ordinary and transcendent. If we try to force an “end goal” instead of focusing on the rhythm of our actions and words for the God, we can quickly get in our own way and create stress and friction within the body, mind, and soul. Sure, you may have a dream of a Goddess after praying, but you could also just dream of the grocery store again. 
 
 ### Praying for What Is Possible
 
@@ -119,7 +128,7 @@ One way to make this part of your life is to say a short prayer to major Gods yo
 
 ### Praying for What Is Inevitable
 
-Our sun, now a main sequence star, continues to eat her fuel, leaving just a little bit less to use an instant from now. Eventually, she will puff up as a red giant star and swallow many (or all) of her inner planets before her death as a nova billions of years from now. Earth may only be habitable for another billion years maximum — the sun's heat increases with its age, and Earth's core will one day no longer produce the magnetic field that protects Earth's surface from the impact of the solar wind. Any day now for the next 100,000 years, the star Betelgeuse in Orion's Belt could go supernova, and the explosion could be as bright as the half-moon, lasting for several months before fading.
+Our sun, now a main sequence star, continues to eat her fuel, leaving just a little bit less to use an instant from now. Eventually, she will puff up as a red giant star and swallow many (or all) of her inner planets before her death as a nova billions of years from now. Earth may only be habitable for another billion years maximum — the sun's heat increases with its age, and Earth's core will one day no longer produce the magnetic field that protects Earth's surface from the impact of the solar wind. Any day now for the next 100,000 years, the star Betelgeuse in Orion could go supernova, and the explosion could be as bright as the half-moon, lasting for several months before fading.
 
 Our incarnations a billion years from now will be on strange planets orbiting suns just blossoming into the caretakers of living beings. The universe is teeming with life.
 
