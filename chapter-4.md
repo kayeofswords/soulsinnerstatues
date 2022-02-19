@@ -160,6 +160,8 @@ There isn't information here about what is offered, but I do a brief purificatio
 
 When I do full moon rituals with my mother, who is Wiccan, we do something slightly different — in her initiatory tradition, sacred space is set up through marking out a circle and visualizing a separation between the ritual space and the exterior world in the form of a sphere. Then, the elements are honored, and finally, the lunar deities are honored. She is a devotee of Hekate, who is associated with the moon and the sublunary world, so Hekate is a part of that ritual.
 
+Note that the line breaks may lead one to believe this is poetry. While I did approach the ritual liturgy in a poetic style, it is usually not quite poetry. I find that adding line breaks also helps for reading during ritual, at least until I've memorized something.
+
 ### New Moon
 
 #### Opening: Ground and Center
@@ -341,6 +343,72 @@ May you be our ever-present companions, O holy ones.
 May you drive back sickness, evil, and despair,
 and may you bring us what is good and best.
 The ritual is concluded.
+
+### Ancestor Ritual
+
+When I pray to the ancestors, I give an offering of Nippon Kodo Cafe Time incense (five-minute cones) and sake or mead, and I do this offering at night of the final days of the lunar cycle before the new moon. After the prayers, I may give the ancestors life updates.
+
+#### For Ancestors Related to Me
+
+I make this offering to
+my grandparents of my paternal line,
+my maternal line, my great-grandparents
+each twist and turn of marriage,
+the many lives branching out and upward
+into the past in root-thickets of consciousness,
+making a spirit and vessel of those who have chosen
+to be incarnated in my family.
+I pray to my recent ancestors whose faces I know,
+to my distant ancestors whose faces and names have receded.
+I pray to the ancestors who kept the old rites for the Gods,
+for the ones who had lost them unknowing.
+Please accept this offering of mead and incense.
+Come, ever-gentle, and grant blessings to us, your descendants.
+Assist us along the paths that we must take
+in this guest-house we call a lineage.
+Each of us, like sparrows, has entered this hall only to fly out again.
+Incarnating here among the many choices of life,
+we have given and will give what we have.
+I honor your memory and seek your favor.
+
+#### Prayer to the Disir
+
+I pray to the holy Disir,
+protectors of your descendants,
+Goddesses, spirits, and esteemed female dead,
+I come to you in gratitude.
+Thank you for your guidance and protection.
+May you protect the women of my family.
+May you bless the women of my family.
+May you instruct the women of my family.
+May you be present in our homes and our lives.
+We welcome you, trusted divinities.
+We welcome you, our great elders.
+
+#### Prayer to Ancestors of Intellect
+
+For my intellectual lineage,
+bright minds who illumine the soul,
+who train it ever upward —
+I make this offering to you, O illustrious ones,
+pure souls shining in the words I read.
+Please accept this prayer of gratitude.
+You guide me through the pages.
+You walk me along the upward path
+even though the brambles sting and my mind tires,
+so I may know the gifts of true beauty
+hidden in passages strung like ivy and laurel,
+uncovered by those known and unknown to me,
+men and women of steady minds,
+of hearts so filled with the love of the Gods
+and the spaciousness beyond being that is no space,
+intellectuals, philosophers, true theologians,
+poets and creators of the most beautiful agalmata
+holding the keys to the Gods who rule all things.
+
+#### Closing
+
+Thank you, ancestors, for your blessings. Accept this offering, O predecessors.
 
 ## Do a Special Ritual
 
