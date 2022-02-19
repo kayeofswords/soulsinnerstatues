@@ -104,6 +104,8 @@ At least in the United States, the “milestones” by which we measured adultho
 
 **Weddings and commitment ceremonies.** Most people making commitments to a life partner do so in the context of marriage, but that is not the only option — many do commitments because marriage comes with negative financial impacts. Introducing your partner to the household Gods, sharing food with them, and purifying your living space can be incorporated into the ceremony, privately or as part of the larger ritual event.
 
+**Pregnancy and childbirth.** You can pray for those who are pregnant or who are giving birth. If you are pregnant, you may consider altering your prayer ritual to incorporate offerings for the health and wellness of the future human you are growing in your lower abdomen. If you are actively trying to become pregnant or impregnate someone, incorporate fertility prayers and vent to the Gods about any hopes and fears.
+
 **Funerals.** The purpose of a funeral is to give the body the rites that properly “send off” the deceased. They are an opportunity to show respect and care — and they should always be done according to the belief system that the person had in life, not what we wish it would have been. I grew up in a conservative area where it was not uncommon for funerals to include a spontaneous plea for religious conversion to the “correct” sect of the prevailing faith, or ones held by people who wanted to bring the deceased back into their faith after apostasy. The deceased was not placed at the center of the ritual, which was horrible. Likewise, when visiting burial plots, stick to making offerings of food, drinks, and flowers that the deceased may have enjoyed.
 
 **Death.** Unlike funerals, honoring a death can be done alone. When one of my coworkers died unexpectedly in late 2021, I lit a candle for her that evening and said a few words. As someone who cries easily, I was too afraid of not holding it together to say anything at her vigil, but privately, with a candle lit and my words directed at her, the tears were not as disruptive. I included her in the names of the deceased when I performed an annual ritual for the Chthonic Gods that February, about two months after her death. Anyone can be honored in this way. It is also a good alternative for those of us who live far from where our ancestors are buried.
@@ -112,13 +114,25 @@ At least in the United States, the “milestones” by which we measured adultho
 
 **Celestial clockwork.** Stars rise, reach their highest point, and set. Planets do, too — and they appear to go through a specific set of constellations along the ecliptic, the Sun's apparent path. Some are fond of tracing the motions of a specific constellation. 
 
+It is important to approach prayer as a way of imbuing everything we do with what is sacred — of being active agents in our experience of spirituality and completing the chain that begins with the Gods and emanates into matter. All things pray except the First, as Proclus wrote; we are all praying in some capacity continuously, and continuous with our actions. What matters is becoming mindfully aware and using our rational faculties to steer our own ships under the guidance of the Gods.
+
 ## The Mechanics of a Prayer
 
 In previous chapters, we have focused more on getting you started with prayer than on the mechanics. This chapter has opened the floodgates of possibility, linking that private practice in your home with everything from the rhythms of your life to the cycles of the sun and moon above. If you feel overwhelmed, that is OK: the world is full of Gods, and every moment is teeming with deities, too.
 
 It is so easy to get carried away, so let's take a step back and look at prayer in general again. Prayer is a rhythmic practice through which we connect to the Gods. That active connection and engagement with them is both ordinary and transcendent. If we try to force an “end goal” instead of focusing on the rhythm of our actions and words for the God, we can quickly get in our own way and create stress and friction within the body, mind, and soul. Sometimes, people communicate excitedly about dreams filled with divine potency, guided meditations that lead to new and meaningful information, or Gods experienced, but this is not the everyday. Life involves an awful lot of lines and waiting rooms. We can also let our expectations get out of hand.
 
+A prayer includes five basic elements:
 
+1. An invocation. You greet the God by their name, adding any epithets or titles.
+2. An offering. Offerings anchor the prayer in the world around us, opening space for connection to the God.
+3. Say some words, chant, read a hymn, or behold sacred images and stories about the God.
+4. Be silent with the God. Focus on your breathing for a few moments, and allow that to ground you into an open space. Then, focus on the God.
+5. Thank the God.
+
+If you are pressed for time and need to add something to your preexisting ritual practice, the above takes as little as 2-3 minutes once you are familiar with the rhythm of the words and actions. You can add it onto your morning ritual if you have the time to do it — I recommend placing it right after the invocation of the hearth Goddess and before you pray to any patron deities.
+
+For more complex celebrations, we can build out from this prayer template to encompass other types of activities. For instance, if you are seeking blessings in spring for the herb garden that you are about to spend hours of care on, consider processing through your growing area after the offering or bringing your seedlings to the shrine to seek blessings. Perhaps you decide to honor the God at a meal for the summer solstice. You make sacred space at the park where you do your cookout, offer the God a portion of the meal, perform the remainder of the ritual, and eat in the God's presence when you're done. This is limited only by your imagination, common sense, and decency — always be respectful of the Gods in a ritual space, don't do anything wildly dangerous, and embrace the time you have to consciously focus on your connection to the sacred.
 
 ### Praying for What Is Possible
 
@@ -138,3 +152,202 @@ When I was in my early twenties, I prayed to Hermes in his role as the God who c
 
 At some point in our lives, we will all need pallative care. The sun will rise, for us and others, until it, too, dies.
 
+## Sample Ritual Outlines
+
+These are rituals that I do for the new and full moons, so they are personalized to Gods I worship and my own situation — which is slightly eclectic, albeit in a systematized way. 
+
+There isn't information here about what is offered, but I do a brief purification and light the hearth candle at the beginning with a prayer to the hearth Goddesses. Typically, I offer a nice incense to the lunar deities during the first moon prayer. I give a libation of milk to the stars (yes, I am not above inserting humor about the Milky Way) and a libation of water to the lunar deities.
+
+When I do full moon rituals with my mother, who is Wiccan, we do something slightly different — in her initiatory tradition, sacred space is set up through marking out a circle and visualizing a separation between the ritual space and the exterior world in the form of a sphere. Then, the elements are honored, and finally, the lunar deities are honored. She is a devotee of Hekate, who is associated with the moon and the sublunary world, so Hekate is a part of that ritual.
+
+### New Moon
+
+#### Opening: Ground and Center
+
+Imagine yourself growing branches into the Earth, and feel the energy that you gather from her and the way your leaves are tied to her seasons and cycles. Imagine the sky up ahead — the sun, the vault of stars, the inky blackness, the planets, the arms of our galaxy, the cosmic web — and imagine that you are growing roots to nourish yourself on the blessings from above. Feel the energy from the Earth and sky combine within you, connecting you to the cosmos above and below.
+
+(Note: I learned the basics of this approach in [*Stellar Magic: A Practical Guide to the Rites of the Moon, Planets, Stars and Constellations*](https://www.google.com/books/edition/Stellar_Magic/h6lsPgAACAAJ?hl=en) by Payam Nabarz and adapted it because I am very into cosmology — I include more types of celestial bodies, and the above roots up instead of down because I've read too much Proclus. Nabarz has written a useful book for anyone interested in doing devotions for celestial bodies. Because I'm not interested in magic, I ignore the magical workings.)
+
+#### Prayer to the Moon
+
+I pray to the luminous new moon,
+beginning of new growth,
+auspicious and divine,
+male and female, feminine and masculine,
+God of the soothing northern moon,
+Goddess of the healing southern moon,
+God of the east-rising moon,
+Goddess of the west-setting moon.
+May you, Gods of the Moon, accept this offering:
+Mani, Sirona, Selene, whichever Gods are
+enthroned, exalted, upon the Moon’s holy body.
+May you, O Moon, and the Gods seated upon you
+bless and protect us, guiding us to our Good.
+
+#### Prayer to Apollon Noumenios
+
+[I use a prayer from Labrys, which I am not reprinting here for copyright reasons, but it is on their website.](http://www.labrys.gr/en/text_noumenia.html)
+
+#### Moon Salutations
+
+If one knows moon salutations in yoga, this is an opportunity to mindfully do two. Chant *Selene, Mani, Ueronadā, Sironā, Luna,* each time a salutation is begun.
+
+Follow this with Chandra Bhedana, a closure of the right nostil for 20 inhalations while thinking of clear white light coming in and out, purifying. Afterward, come into stillness and imagine being connected to the whole of generation, humming with the Gods, while firmly situated at one’s center. This meditation can last as long as one likes.
+
+#### Gratitude Prayer
+
+We thank the Gods for witnessing this new moon ritual:
+Goddesses of the hearth, first and last,
+esteemed and gentle Mani,
+God of the northern moon,
+keeping day and night in solemn compassion;
+beloved Sirona, adorned with stars,
+Goddess of the night and the holy moon;
+lush-braided Selene, luminous and enchanting,
+Goddess who smiles down on the changeable world.
+Apollon Noumenios, holy God of the new month,
+accompanied by serpents, marking the boundary
+between old and new, adorned with laurel.
+
+#### Closing Prayer
+
+Thank you, O Gods.
+May you protect my family and my girlfriend’s family.
+May you be our ever-present companions, O holy ones.
+May you drive back sickness, evil, and despair,
+and may you bring us what is good and best.
+The ritual is concluded.
+
+### Full Moon: Aspirational
+
+#### Opening: Ground and Center
+
+#### Orphic Hymn to the Stars
+
+[I use the Athanassakis translation](https://www.press.jhu.edu/books/title/9661/orphic-hymns), but [the one by Thomas Taylor is freely available online](https://www.theoi.com/Text/OrphicHymns1.html#6).
+
+#### Prayer to the Moon
+
+I pray to the luminous full moon,
+swelling with abundance,
+auspicious and divine,
+male and female, feminine and masculine,
+God of the soothing northern moon,
+Goddess of the healing southern moon,
+God of the east-rising moon,
+Goddess of the west-setting moon.
+
+I pray to you, luminous Moon, seat of many Gods,
+Mani, Sirona, Selene, and many others call you theirs.
+At the fullness of your beauty, shining upon all,
+reflecting the luminous sun, sublunary ruler,
+give my soul sustenance from your holy light.
+Do not let me become prey to wandering spirits,
+but guide me to the luminousness of Intellect
+seated beyond the spheres, beyond the subjective,
+vehicled in noetic and noeric fire, your companion.
+
+May you, O Moon, accept this offering.
+May you, O Moon, and the Gods seated upon you
+bless and protect those of us in embodiment, 
+guiding us to our Good, guiding us home.
+
+#### Lunar Envesselment
+
+Ideally, hold the bowl of water in a way that puts it line-of-sight with the moon outside. If this is not possible, close your eyes and envision moonlight filling the bowl. Chant *Aiglê, Pasiphae, Eileithyia, Selene, Mani, Ueronadā, Sironā, Luna* in a musical way. Pour out some of the water for Selene and the Stars, then drink the rest while envisioning the power of the celestial vault and the moon filling you.
+
+Follow this with Chandra Bhedana, a closure of the right nostil for 20 inhalations while thinking of clear white light coming in and out, purifying. Afterward, come into stillness and imagine being connected to the whole of generation, humming with the Gods, while firmly situated at one’s center. This meditation can last as long as one likes.
+
+#### Gratitude Prayer
+
+We thank the Gods for witnessing this full moon ritual:
+Goddesses of the hearth, first and last,
+the stars who circle in the night sky above,
+boundless and bounded, far and yet so near,
+to Selene of lush braids,
+she who waxes and wanes,
+who counts out the month in her dance
+around our Earth as the sunlight shimmers upon her surface;
+to esteemed and gentle Mani,
+God of the northern moon,
+keeping day and night in solemn compassion;
+to beloved Sirona, adorned with stars,
+Goddess of the night and the holy moon.
+
+#### Closing Prayer
+
+Thank you, O Gods.
+May you protect my family and my girlfriend’s family.
+May you be our ever-present companions, O holy ones.
+May you drive back sickness, evil, and despair,
+and may you bring us what is good and best.
+The ritual is concluded.
+
+### Full Moon: When It's Been a Long Day
+
+#### Opening: Ground and Center
+
+#### Prayer to the Moon
+
+I pray to the luminous full moon,
+swelling with abundance,
+auspicious and divine,
+male and female, feminine and masculine,
+God of the soothing northern moon,
+Goddess of the healing southern moon,
+God of the east-rising moon,
+Goddess of the west-setting moon.
+
+I pray to you, luminous Moon, seat of many Gods,
+Mani, Sirona, Selene, and many others call you theirs.
+At the fullness of your beauty, shining upon all,
+reflecting the luminous sun, sublunary ruler,
+give my soul sustenance from your holy light.
+Do not let me become prey to wandering spirits,
+but guide me to the luminousness of Intellect
+seated beyond the spheres, beyond the subjective,
+vehicled in noetic and noeric fire, your companion.
+
+May you, O Moon, accept this offering.
+May you, O Moon, and the Gods seated upon you
+bless and protect those of us in embodiment, 
+guiding us to our Good, guiding us home.
+
+#### Chant
+
+I go to the window if the Moon is visible and chant the verses from Mike Oldfield's *Incantations* Part One, but may vary the deity names according to the melody of that album. It's very meaningful because my mom played this album frequently when I was a young child, and she would also sometimes sing this chant to the moon. Sometimes, I do this part before the actual ritual because I see the moon rise from my apartment window, which always takes my breath away.
+
+#### Gratitude Prayer
+
+We thank the Gods for witnessing this full moon ritual:
+Goddesses of the hearth, first and last,
+the stars who circle in the night sky above,
+boundless and bounded, far and yet so near,
+to Selene of lush braids,
+she who waxes and wanes,
+who counts out the month in her dance
+around our Earth as the sunlight shimmers upon her surface;
+to esteemed and gentle Mani,
+God of the northern moon,
+keeping day and night in solemn compassion;
+to beloved Sirona, adorned with stars,
+Goddess of the night and the holy moon.
+
+#### Closing Prayer
+
+Thank you, O Gods.
+May you protect my family and my girlfriend’s family.
+May you be our ever-present companions, O holy ones.
+May you drive back sickness, evil, and despair,
+and may you bring us what is good and best.
+The ritual is concluded.
+
+## Do a Special Ritual
+
+At the beginning of this chapter, I encouraged you to jot down some notes with ideas you have about honoring the sacred. Choose *one* thing coming up after your next payday (or grocery shopping haul). Is it the full or new moon? Are you starting or ending a project? Have you just adopted a cat? Is it the start of exam period?
+
+Using the information here and your budding experience with prayer, create a ritual outline. After consulting your budget, add anything you need for that ritual to your grocery/supplies list. Hold time on your calendar and do what you need to do.
+
+Why wait until your next pay period? Many of us base our activities around our pay cycles. If you have room in your current cycle's budget for something special, it's fine to adjust. I get paid monthly and set aside a certain amount of money for incidental expenses. Usually, by the time the fourth week of the month rolls around, between coworkers fundraising for their children's creative enrichment programs, impulse book purchases, and realizing all of my socks (somehow) once again have holes in them, I'm at the point where I am thinking carefully to avoid going overbudget — and I'm sure many people experience similar ebbs and flows. While offerings are factored into my monthly spending and I plan ahead for higher-cost holidays like the solstices, they are probably not budget categories for you yet. In any case, over the next few months, track what you spend on offerings and other spiritual wellness items, and the average of that is what you should put down as your habitual spending.
+
+If you don't have a pay period, remember to do what you can with what you have. Flowers gathered in a natural area, nicely-steeped tea, or a small portion of what you have on hand can all make lovely offerings.
