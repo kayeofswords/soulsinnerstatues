@@ -24,7 +24,7 @@ Kids don’t need to be watched every second online, but they do need structure,
 
 ## Partners and Roommates
 
-If you have other adults in your living space, like a spouse or roommate, involving them in your religion could take several forms. If the other adult also worships many Gods (likely different ones), holidays in your respective traditions are opportunities to share food and stories and pray together. If your spouse or roommates are not religious, they may also be perfectly fine with sharing a special meal for holidays — most nonreligious people and atheists are not antireligious even if YouTube comments and online trolls indicate otherwise. If your spouse or roommate is antireligious, you will likely experience substantial friction. Members of exclusivist monotheistic faiths who are progressive may also be willing to have meals with you, but more conservative ones will likely have issues with you and call you an idolater. I know someone whose spouse believes she is consorting with demons, and it's very psychologically hard for her as someone who is drawn to worshipping other Gods.
+If you have other adults in your living space, like a spouse or roommate, involving them in your religion could take several forms. If the other adult also worships many Gods (likely different ones), holidays in your respective traditions are opportunities to share food and stories and pray together. If your spouse or roommates are not religious, they may also be perfectly fine with sharing a special meal for holidays — most nonreligious people and atheists are not antireligious even if YouTube comments and online trolls indicate otherwise. If your spouse or roommate is antireligious, you will likely experience substantial friction. Members of exclusivist monotheistic faiths who are progressive may also be willing to have meals with you, but more conservative ones will likely have issues with you and call you an idolater. I know someone whose spouse believes she is consorting with demons, and it's psychologically hard for her as someone who is drawn to worshipping other Gods to have her spouse be that hostile.
 
 ## Finding People
 
@@ -42,16 +42,27 @@ While in a parasocial relationship, the feelings of betrayal have no actual basi
 
 I started this section with an overview of friendships for one key reason: **Just because others worship Gods, and even the same Gods as you, doesn't mean you'll all get along.** This is a painful life lesson. Our personalities are all unique, no matter how we try to bin them into categories with Myers-Briggs, astrology, and so on. One might think that being in the series of the same God, if two people were to be blessed with confident insight into that, would make them instant friends. Even in that case, since a God is everything in a unique way, and as each of us is a particular soul that expresses a unique fingerprint of that uniqueness, devotees express the full range of what that God is.
 
+Ideally, when looking for people to approach about your mutual interest in the Gods, your goal is to identify candidates for close acquaintances and casual friends. Rarely, you will find new close friends.
+
+### Local Organizations
+
+Depending on the size and demographics of your local area, there may be people nearby with preexisting groups that you can join. Shops that sell alternative religious materials (like incense, deity statues, and so on) often have good inventories of what is available nearby. You can also use Meetup and check for groups on social media that are local. Many groups will have some public events even if their core activites are private and members-only.
+
+If you are worshipping deities that have temples or shrines in your metro area, learn more about the organization and contact them to ask if it is possible for you to pray there. Generally speaking, they will have volunteers and other people who would be happy to show a respectful outsider how to engage with the Gods in a tactful manner.
+
 ### Social Media
 
-- Social media is a double-edged sword, and it's often a free-for-all
-		- Know your goals for engaging
-		- You don't need to follow back or friend
-		- Avoiding FOMO and lifestyle creep on polytheist Instagram. Avoiding the weird fashion photography that is just trying to have ambiance for whatever reason.
-		- Woo, spiritual bypassing, and misinformation
-		- You don't need to have a specific set of political beliefs to belong
-		- People are usually fighting with a shadow of their fears, not with you; this is why they can get so vindictive
-		- Using difficult conversation techniques to bring things back on the rails when the worst happens
+To find friends in the 2020s, most people start on social media, private Discord or Slack chats, and Internet forums. There are some important pitfalls to this, and I advise you to use social media strategically to identify people you actually want to talk to. Once you have that, get out. Especially in private Discords that are run by Influencer personalities, things can quickly go south into cult-land. 
+
+The reason I encourage you to have an exit game is that the psychological impacts of heavy social media use are similar to other high-risk addictive behaviors. Once you feel parasocially obligated to be online and post to a large audience, you will also likely be trapped on Twitter, in Facebook groups, or on Instagram or TikTok. Studies show that people who are primarily active on social media for their social interaction face higher rates of anxiety and depression, as social media doses us with dopamine using algorithms similar to casino slot machines. Parasocial validation cannot functionally replace getting to know people in person.
+
+While you are on social media, be it TikTok, Facebook, Twitter, or the latest and greatest new platform, do not feel pressure to follow back or friend anyone. Your update feed is your space. Look at the person's profile and decide if you find their updates parasocially relevant. Then decide if you think they're acquaintance material. Make your decisions based on that. I rarely follow back immediately — it may take me weeks, months, or years to make that decision. Most people I follow are those writing content that I have found useful. In private social media spaces, I only let people see my content if I feel comfortable having them see it.
+
+Facebook and Instagram groups about the Gods are also filled with what I like to call aesthetic posts — people posing with animal skins, horns, period clothing, and other items. It is materialistic and annoying for people who are actually there for content that helps them grow spiritually. It can also trigger our acquisitive instincts due to the human instinct to conform to group norms. Even when people post shrines, it can be intimidating for people whose setups are simpler and less expensive. Unless you know someone, you have no idea if they've been practicing for 20 years and have built their shrine items up over that amount of time or if they've gone into debt buying all of those items two months ago.
+
+Social media also rewards oversharing and a lack of personal filter/boundaries. For this reason, spiritual bypassing, out-of-the-norm experiences, and misinformation are all rewarded by the algorithms. Rather than sit with a private experience for a while, many people instantly share what they think happened online. Sharing personal experiences is best done first in a private journal, then among people one actually knows. Because many of us are lonely and lack close friends, social media oversharing becomes even more seductive. We are all more likely to post when we are feeling strong emotions, too, like when online misinformation pushes our buttons.
+
+Also, remember that when fights happen on social media, most people in the conversations are fighting with shadows created by their own fears, not with you. This is why people can get so vindictive — the depersonalization of online interactions combines with whatever is going on in their psyches to create the perfect storm. If you have learned techniques from difficult conversations trainings (my workplace has these all the time), now is the time to use them. However, it's not possible to deescalate everything.
 
 ## The Mechanics of Group Ritual
 
@@ -67,11 +78,52 @@ Most often, people will use their own homes for rituals and trust that guests wi
 
 ## Joining Groups
 
-### Cults
+So, let's say that you decide you like a group — online or offline — and want to be a joiner. When you are making your decision, here are some things to look for:
 
-### Cultural Appropriation
+1. Does the group have a nondiscrimination policy? How is it enforced? Is training mandatory for officers? Many are quick to sign statements about inclusivity, but few are willing to put in the work to ensure that leaders are actually prepared to handle such situations.
+2. Is the group centered around a single person? If it is centered around one person, is it because they have the highest level of training in the tradition? Who trained them? Is there an accountability structure that applies to people with their level of training at the regional, national, or international level? How are officers and leaders of the group chosen?
+3. Has the group appeared in the news associated with any cult scandals? Have former members written any exposés? What did they say, and how did the group respond?
+4. If the group is claiming to be a revival of a tradition from a region, are people who are descendants of the group(s) living in that region represented in leadership positions? What do members of the group say about those living descendants in general? Thinking back to the cultural appropriation content in Chapter Two, are they engaging in any red flags? Are they open to modern interpretations, or do they prefer reenactment?
+5. If you have children, is the group child-friendly?
+6. What are the educational development opportunities for members?
+7. Is the group legally incorporated? This isn't a dealbreaker, but groups that have legally incorporated are often more stable than ones that are not.
+
+With these questions, you should be prepared to view the organization's website or ask questions of members of the group if you attend a few rituals and want to know more about them. I was once in a group where long-term members repeatedly described, in an elated way, how they thought outsiders would go after them and how they were prepared for the worst. That was only one red flag of many. Red flags like this one will likely not be on their website — you have to get to know people.
+
+Once you have found a group, sign up for its listservs, forums, and other online presence locations. Try to make at least a few of their in-person or online meetups when possible. When I first joined a group, I lurked for a long time, but it meant that I didn't get a feel for what other people in the group were like until I was eligibile for leadership positions, and I came to know that we did not have compatible values.
+
+### When Leaders Go Bad
+
+Throughout our youths, we come to know that the authority figures in our lives — our parents, other adults, religious teachers, and so on — are just as human and fallible as we are. The first time I saw someone I considered a spiritual leader behave in a toxic way online, I was in my early 20s. Nowadays, with the way social media is designed, I imagine people have this shock at a much younger age. It felt awful, but I was only *witnessing* what was happening, and it hardly impacted me at all beyond having to process extreme disappointment.
+
+Unfortunately, that experience is mild in comparison with what happens to many other people. Cults, sexual abuse, and similar horrors are rampant in spiritual spaces. These things may be centered around a specific person, or they may take place within the context of a group's organizational structure.
+
+When it comes to individuals, we can draw some understanding from the commentary that Edwin F. Bryant made on Patañjali's *Yoga Sūtras*. In the chapter on meditative absorption, Bryant translates I.15 as, Dispassion is the controlled consciousness of one who is without craving for sense objects, whether these are actually perceived or described” (p. 52). He cites two prior commentators on the same passage of the *Yoga Sūtras*: dispassion is “indifference to objects even when these are available” (Vācaspati Miśra) and includes “members of the opposite sex, food, drink, and power” (Vyāsa). It dovetails aptly with things said in Platonism about control of the passions of the appetitive and spirited parts of the human soul, which — when they are left unchecked because someone has not properly brought them into alignment — lead to disasters great and small. “The wise,” Bryant continues, “strive for detachment and the eternal experience of the soul rather than the never-ending pursuit of ephemeral pleasure” (p. 53).
+
+It is that detachment that allows someone to lead a group without allowing the power to get to their head — and, crucially, even when someone starts out holy, they can backslide. Spiritual teachers are honestly some of the most vulnerable people to tyrannical downfalls, vice, and abuse, partially because people trust them, and we are less likely to hold people we admire accountable. The goal of being a guide for others is to positively impact others' minds and souls, and those others then open up and become vulnerable. Socrates gets into how devastating spiritual abuse can be at Phaedo 89d-e, as it hardens people against any spirituality or truth-seeking at all and just leaves them jaded. A spiritual teacher still needs a group of peers and friends to hold them accountable, people who are not afraid to say the hard things.
+
+In the same commentary on the *Yoga Sūtras*, at I.14, “practice becomes firmly established when it has been cultivated uninterruptedly and with devotion over a prolonged period of time” (p. 49), Bryant takes what Patañjali has written here to comment on the steady stream of abuse scandals in yoga. According to him, the practice must be cultivated continuously, like a garden. Otherwise, disaster may happen:
+
+>As an aside, many Hindu gurus and yogīs have been embroiled in scandals that have brought disrepute to the transplantation of yoga and other Indic spiritual systems to the West. This sūtra provides a mechanism of interpreting such occurrences. If one reads the early hagiographies of many Hindu gurus whose integrity was later found compromised, one is struck by the intensity, devotedness, and accomplishments of their initial practices. Nonetheless, however accomplished a yogī may become, if he or she abandons the practice of yoga under the notion of being enlightened or of having arrived at a point beyond the need of practice, it may be only a matter of time before past saṁskāras, including those of past sensual indulgences, now unimpeded by practice, begin to surface. The result is scandal and traumatized disciples. There is no flower bed, however perfected, that can counteract the relentless emergence of weeds if left unattended. As Patañjali will discuss later in the text, as long as one is embodied, saṁskāras remain latent, and therefore potential, in the citta [mind]. Hence one can read this sūtra as indicating that since the practices of yoga must be uninterrupted, one would be wise to politely avoid yogīs or gurus who claim to have attained a state of enlightenment such that they have transcended the need for the practice and renunciation presented by Patañjali here.  /
+Yoga Sūtras, trans. Bryant, p. 51
+
+This passage could apply to any spiritual community: The leaders cannot, for the sake of those following them, fall prey to power. Sometimes, people go into leadership positions because they feel a lack that they believe only power over others can provide, and they spend the remainder of their lives hiding skeletons in their closets and using their current followers as a replacement for real self-work. Leadership often ends badly for them. In any case, the fallout impacts the entire group. It is negligence at its best, calculated indifference to the welfare of others at its worst. All teachers need training and accountability. All teachers need to demonstrate care towards the souls of others, imitating the Gods, as the Gods are wholly good.
+
+Beyond leaders and teachers, in a group context, toxic ones scare people with what will happen to them. They ostracize someone who criticizes a group policy. They terrorize people if they make even simple human mistakes. They judge and punish if someone likes the wrong books, buys food the group doesn't approve of, or displays negative emotions. Meanwhile, they puff up followers with the idea that they are members of a special, awakened elite. You cannot be compassionate or cultivate civic virtue if you internalize us/them exclusivity rhetoric. 
+
+Often, those drawn into a cult are people who are motivated to do good in the world — just as Plato teaches, people always want to do what they think is best, even if they are in error. Their strong motivation to do good is manipulated through love-bombing and the fear of ostracism and hatred from the people they respect. Us/them thinking and “we’re the only good people and you must believe these specific doctrines, and these alone” rhetoric is extremely prevalent in online New Religious Movement communities in the 2020s, on the right and the left. Do not trust people who try to cut you off from different ideas while threatening to ostracize you if you disobey.
+
+Paradoxically, the language of “we’re a niche” is also used in a less intense way in nontoxic systems. In Platonism, for example, theurgic and philosophical incarnation choices are prioritized for achieving henosis and a providential exit from the current cosmic cycle. But it encourages critical thinking at the same time — you are supposed to question, to work through the dialogues, to understand that even the holiest people incarnated were human beings. It is a torch relay. When people try to misapply Platonism for spiritual bypassing or to gain power, they will often be overly literal in interpreting texts and/or fuse Platonism with a reactionary zeitgeist.
+
+Be wary of leaders who try to twist your embodiment anxiety into something toxic to your mind. Be wary of leaders who plaster their faces everywhere — while dead holy people are honored with libations and appropriate commemorative well-wishes, they should not be revered as if they are on the same status as the Gods — and those who scare you into silence with the threat of ostracism if you question anything or have slightly different beliefs than they do. 
+
+The Gods are the wellsprings of human happiness, as per Iamblichus. Humans are an ocean of transient pleasures and pains. Follow the Gods, and they will lead you up the mountain to touch the sky. Follow humans uncritically, and they may very well lead you to the bottom of an ocean trench.
+
 
 ## Exercise: Know What You Want
 
-- Exercise: Research 2-3 groups, either tradition-specific or not, to investigate. What are their values? Are there checks and balances in their bylaws? What is the governance structure? Do they require any specific theological beliefs, or are they practice-focused? Are they based in your local community or online? Do they engage in any cultural appropriation red flags?
-	- Exercise: Identify what you want in online or in-person polytheist friends. What are your dealbreakers? Where are you willing to look?
+Research groups, either tradition-specific or not, to investigate. Use the questions above to narrow down to one or two (if possible) to learn more about. Try attending one of their open events if you can.
+
+Meanwhile, identify what you want in online or in-person spiritual friends. What are your dealbreakers? Where do you plan to meet people? If you plan to use social media, what rules do you want to set around using the platform?
+
+These questions are ideal for answering in a journal or text file, and you can refer back to them over the next few months. I recommend checking in about your social media habits at least monthly to ensure that you are not succumbing to overuse.
