@@ -410,7 +410,7 @@ holding the keys to the Gods who rule all things.
 
 Thank you, ancestors, for your blessings. Accept this offering, O predecessors.
 
-## Do a Special Ritual
+## Exercise: Do a Special Ritual
 
 At the beginning of this chapter, I encouraged you to jot down some notes with ideas you have about honoring the sacred. Choose *one* thing coming up after your next payday (or grocery shopping haul). Is it the full or new moon? Are you starting or ending a project? Have you just adopted a cat? Is it the start of exam period?
 
