@@ -89,4 +89,4 @@ While you are studying, you will likely come across courses (free and paid), rea
 
 Brainstorm a topic that you want to know more about, ideally related to worshipping Gods. Identify content items that you can engage with to learn more about it. They could be books, videos, podcasts, courses — you name it. Look up reviews for the books and learn more about the podcast, video, and book creators. Narrow the resources down to five.
 
-Then, find learning time in your schedule — one or two times per week. Use that time to engage with the materials you have selected.
+Then, find learning time in your schedule — one or two blocks of time per week. Use that time to engage with the materials you have selected.
