@@ -171,9 +171,3 @@ https://kallisti.blog/2018/05/11/household-worship-brass-tacks-style/
 > What you place in your household shrine depends on what you can afford. If you are hurting for money, save and clean several glass jars you use for pasta sauce and other things. These can function as receptacles for libations or the vessels for making a libation.
 
 > If you have a bit of money, look in a thrift store for jars, pitchers, and nice bowls. (That’s also a good time to pick up candle holders and candles.) If you have disposable income that you can use to invest in the polytheist community, Etsy is generally the place to go for finding Hellenic artisans and artists who make some very beautiful and functional religious stuff. <a href="https://www.etsy.com/shop/TheHellenicHandmaid?ref=l2-shopheader-name">The Hellenic Handmaid</a> is a great resource for libation receptacles.
-
-- Appendix II: Sample low-, medium-, and high-energy daily rituals
-- Appendix III: Sample Solstice Rituals
-- Appendix IV: Sample new moon ritual, sample full moon ritual
-- Appendix V: Sample activities as you go through the calendar year and lunar months, plus some guiding questions for your practice
-- Appendix VI: How to build a ritual
