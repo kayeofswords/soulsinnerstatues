@@ -1,9 +1,3 @@
-- Introduction
-	- Why is this called SIS?
-	- Basics of worshipping Many Gods
-	- Recommended supplies for the book
-	- Starting ritual: A prayer for beginnings
-
 An image that has always struck me in Plato’s *Symposium* is that of a hollow woodland spirit’s statue being filled with small figurine icons of Gods before it is closed up and fitted together by its creator. These words are used to describe Socrates by one of his lapsed students, Alcibiades — a man who had strayed from the path of self-discovery and the love of wisdom, choosing instead to pursue his love of politics. Like him, many of us are divided into many pieces, from work to family to society, cast about like a tiny vessel on a tumultuous ocean. We struggle to know *where* we are, let alone *who* we are; forgetting our intrinsic wholeness, we seek to be whole. Coming to see the statues within ourselves — and anchoring ourselves to them in the quest to flourish as human beings — can go a long way to securing our inner calm, even in the face of grueling challenges or calamities or even the daily grind of work and life.
 
 This book aims at being a small guidebook to that — a collection of words and practices that can withstand the sprays of water, the stinging salt, and the passage of time. It aims to create a systemic synthesis useful to those of us in modern times, especially we who live in cultural melting pots like the United States, as we ponder what allures us about the dazzling statues of Gods and the strangeness of stories hidden beneath the husk of commercialization and popular entertainment.

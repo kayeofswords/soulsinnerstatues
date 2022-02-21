@@ -1,23 +1,3 @@
-- Selecting Gods
-	- Factors to keep in mind when making your choice
-		- Cultural
-		- Heritage
-		- Activity-based
-		- Astrological correspondences and choices
-	- You are probably not the Chosen One
-	- Appropriation, appreciation, cultural reception
-	- Syncretism
-	- Specific traditions and how choices are done for which Gods to worship
-	- Platonic position on seira and the in-series/out-of-series incarnations and how murky that can get
-	- Practice: Make a choice of one or two Gods to worship using some of the methods above
-	
-https://kallisti.blog/2019/11/26/just-do-it/ (picking a God, chosenness)
-https://kallisti.blog/2020/08/15/how-to-find-a-patron-god/ (how to find a patron god)
-https://kallisti.blog/2021/11/28/seira-transformative-experiences-and-spiritual-materialism/ (picking a God)
-https://kallisti.blog/2020/10/21/offspring-of-the-gods-something-from-proclus-commentary-on-platos-timaeus/ (picking a God, theology, chosenness)
-https://kallisti.blog/2021/02/11/two-quotations-van-den-berg-on-proclus-not-being-athenian-and-what-that-means-for-sympatheia-and-proclus-prose-prayer-to-the-gods-in-the-parmenides-commentary/ (appropriation)
-http://kallisti.blog/2021/09/17/advice-about-honoring-gods-for-the-anxious/
-
 We devoted much of the last chapter to discussing many Gods, and we ended with some essentials: household worship and taking time for contemplation. In this chapter, we will build on that and pick one or two more Gods to worship — and, for now, no more than that.
 
 It is not necessary to worship every God that is every day (that would be impossible), just as one cannot be friends with every human being in the world or every sentient being in the cosmos. Beyond worshipping the household Gods and divinities, and perhaps ancestor worship, many people only have the bandwidth for a handful more before their attention is too scattered to have a deep and meaningful practice — and *The Soul's Inner Statues* is focused on breaking down the steps to have such a practice. Sometimes, a person may decide to pray to a collective of Gods: the Muses, for example, or the Fates, Matronae, Attendants of Frigg, Gods of Civic Discourse, Storm Gods, and so on. In my personal practice, I usually pray to the Muses as a collective. Others may devote prayers to all of the Gods in general — often using names and terminology relevant to a specific cultural grouping of Gods, such as the twelve Olympians in Plato's *Phaedrus* or a set of major Roman, Nordic, Celtic, Gaulish, or other deities. 
@@ -40,7 +20,7 @@ The factors involved in choosing Gods to worship are many. In this section, we w
 
 **Astrology.** In astrological systems, specific Gods are associated with specific signs of the Zodiac. These deities may shift slightly based on the system a writer is using. Sometimes, the position of the rising sign or which sign the moon is in matter just as much as one's sun sign. You can explore this with some Google searches on Gods for specific signs. Keep in mind that "astrology" is a very general term, so you will see results for Western, Vedic, and other forms of astrology. Speaking Platonically, the soul accumulates various traits (or garments) as it descends into the world of becoming, and the positions of the stars at birth have been used as signals of which Gods will be particularly prominent for a person that lifetime.
 
-**Divination-based.** Sometimes, especially in the African Diaspora religions, the God(s) someone should worship closely are determined in divination. Divination protocols for such rituals are usually very intricate, and they require study and care for the practitioner to do them well. Outside of those traditions, others may also consult with divination specialists about deities. Note here that "divination" is a broad category that encompasses far more than tarot and oracle cards!
+**Divination-based.** Sometimes, especially in the African Diaspora religions, the God(s) someone should worship closely are determined in divination. Divination protocols for such rituals are usually very intricate, and they require study and care for the practitioner to do them well. Outside of those traditions, others may also consult with divination specialists about deities. Note here that "divination" is a broad category that encompasses far more than tarot and oracle cards, and it's not just about predicting the future! Often, people use divination to seek advice on something that has been bothering them or gain insights into circumstances they are facing so they can make good choices.
 
 **Experience.** In Proclus' surviving hymns to the Gods, he makes frequent references to holy words of the wise that excite the soul towards the Gods. This sometimes literally happens to people. Sometimes, you're reading something, you have a dream, or a freaky chance occurrence hits, and it sends chills down your spine. It could even send the world topsy-turvy for a few hours or days. Something feels *right* about it. You may know the name of the God, or you may just know vague things about them. It's a gift when this happens. As a word of caution, keep an eye on your mental health — brain conditions can mimic spiritual experiences, so practice self-awareness and be sure to follow up with a doctor if necessary. (Generally speaking, "you are the chosen one" is something that only happens in Hollywood movies and messianic fringe groups.) Intense spiritual experiences don't happen every day. Praying for a dream or an unambiguous sign is something people have done for millennia in pursuit of some milder spiritual experiences.
 
@@ -60,7 +40,13 @@ While I do believe in spiritual experiences, I *don't* believe that chosenness i
 
 When people are saying this genuinely and not deceptively, I believe this means that they experienced the spiritual version of “friendship at first sight” (which is a real thing in research). They saw a depiction of a God or started to learn about them and just *knew* they needed to worship that God. It can be a very magnetic pull and generate intense, difficult-to-describe emotions. The person making this claim is still the agent. They are the one who decides to offer the libation or light the incense. 
 
+#### What About Transformative Experiences?
+
+Transformative experiences of the Gods are beautiful things. These can come in the form of dreams, experiences in journey meditations, sudden illumination from wisdom tradition texts, or even just seeing the way the sun strikes newly-opened spring flowers. In ritual, it is not unheard of for someone to be overcome with strong feelings of connection and love when praying to a God for the first time, as if a floodgate has opened. Prayers can lead to steady streams of coincidences. Divination outcomes can teach us about the parts of ourselves we need to grow or let go of, and the techniques themselves put us in contact with the God(s) to whom we have consecrated our tools.
+
 In Platonism, the Gods have something called *providential love* (eros pronoetikos) for us — a type of care flowing without cease and without boundaries to all who are open to receiving it. Experiencing bliss or a sense of deep connection in prayer can sometimes be mistaken for chosenness. Having a religious experience, cleaning oneself up, and committing to excellence can also sometimes lean on the idea of chosenness as a self-soothing mechanism — we like to believe that someone else is rooting for us *specifically*, and it's useful to unpack why we may believe that is the case. In addition, maybe we actually just chose a life where we will do a specific set of activities, and a spiritual experience was the jolt that motivated us to finally get done what we had already committed to doing.
+
+If something like this happens, approach it with humility. Decompress however you need, but an experience does not indicate “chosenness” (although it may indicate your closeness to a God, especially if that is what you have been asking about while praying). 
 
 ### An Important Caveat About Gods’ Functional Roles
 
@@ -135,7 +121,7 @@ An example of a syncretic (and slightly eclectic — it's a gradient) practice w
 
 Another example of a syncretic practice would be the fusion of Belesama with Minerva in Roman Gaul. Belesama is a solar Goddess, with strong water associations; she is wisdom-filled, good with words, and radiant. During that historical period, she was seen as the local version of Minerva by Roman authorities, and the worship of the two Goddesses fused together. Belesama and Minerva are distinct Goddesses. I would, based on personal contemplative experience, place Belesama in a similar conceptual space to Apollon, Aletheia, and Helios. Sulis, another Goddess who was syncretized by Romans to Minerva, was also worshipped as Minerva during the Roman occupation. She has more in common with Hygeia and Salus.
 
-## Practice
+## Exercise: Do Some Research, Then Pray
 
 Choose one (or more) of the methods listed above for selecting deities. Use resources available to you to learn more. It's OK if it's Wikipedia — check the Talk page of whichever deity's page you land on if you see anything you're really unsure about. The Talk page can be accessed at a link just above the page title, and it shows you what editors have been arguing about while maintaining the page. Other options include looking up terms like "Norse pantheon list of Gods."
 

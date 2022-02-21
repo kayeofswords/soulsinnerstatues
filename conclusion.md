@@ -1,0 +1,8 @@
+We started off this primer by talking about the Gods and introducing ourselves to them. In seven chapters, we went through a whirlwind of information about getting started with a ritual practice, all framed as an uncovering of our soul's inner statues and our relationship to the Gods who root us to them.
+
+It goes without saying that all spiritual practices are iterative. There are things I do now that I did not do when I was twenty; there are things I will do at fifty that I do not do now in my mid-30s. The same is true for all of us.
+
+I wish you all of the blessings, luck, and divine guidance that the Gods can give you. I will close with words from Iamblichus.
+
+> Extended practice of prayer nurtures our intellect, enlarges very greatly our soul's receptivity to the gods, reveals to [people] the life of the gods, accustoms their eyes to the brightness of divine light, and gradually brings to perfection the capacity of our faculties for contact with the gods, until it leads us up to the highest level of consciousness (of which we are capable); also, it elevates gently the dispositions of our minds, and communicates to us those of the gods, stimulates persuasion and communion and indissoluble friendship, augments divine love, kindles the divine element in the soul, scours away all contrary tendencies within it, casts out from the aetherial and luminous vehicle surrounding the soul everything that tends to generation, brings to perfection good hope and faith concerning the light; and, in a word, it renders those who employ prayers, if we may so express it, the familiar consorts of the gods.
+Iamblichus, *On the Mysteries*, V.26, trans. Clarke et al.

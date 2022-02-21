@@ -1,32 +1,3 @@
-- Ritual Purity
-	- Physical purity
-		- Showering
-		- Wet wipes, sponges, and washing the hands
-		- Accessibility
-	- Mental purity
-		- Mindfulness techniques
-		- Grounding and centering
-		- Social media breaks (and/or turning off notifications)
-		- Write out your to-do lists
-	- Fundamental point: If you wouldn't invite guests over while in this state, it's probably a time to either do purification or take time for yourself.
-	- When you need to deal with the impact of embodiment, please be there for yourself
-		- Mourning: wait until the new moon to pray again, and cover the shrine. You can still pray away from it and pray to ancestors. If a close relative dies, especially in the waning part of the lunar cycle, I recommend waiting a full lunar cycle and beginning again in the new moon. The night before the moon's first sliver, put a photo of your new ancestor on the ancestor shrine and do something nice for lim.
-		- Birth/adoption/fostering: Introduce the newbie to the shrine after bathing
-		- Menstruation: Be respectful if you are in a space where there are menstruant taboos (e.g., Kemetism, Hinduism), but otherwise, change your products and do not approach the shrine if you are experiencing debilitating pain.
-		- Sex: Clean yourself up before you pray.
-		- Sickness: If you are having an acute sickness, do not pray if you cannot otherwise get up to do ordinary household things without feeling ridiculously unwell. If you have a chronic illness and are having a flare-up, do not pray. I also recommend establishing a low-energy prayer routine, medium-energy prayer routine, and high-energy prayer routine so your practice can fit the rhythm of the condition you are managing.
-	- If you join an initiatory tradition, some of these things may not apply because the initiatory tradition will have specific protocols for you
-	- Exercise: Do a brief meditation or grounding and centering exercise, then pray to a household God, ancestors, or one of the Gods you have picked after the previous chapter. See how taking pause impacted you.
-	
-https://kallisti.blog/2019/07/21/purification-and-how-we-talk-about-it/
-https://kallisti.blog/2020/02/15/drying-rosemary-for-purification-water/
-https://kallisti.blog/2017/01/22/coda-blood-crimes-purification-ceremonies-and-the-eumenides/
-https://kallisti.blog/2017/02/24/two-old-kallisti-posts-1-the-relationship-between-the-eumenides-and-purification-2-a-plug-for-worshipping-the-erinyes/
-
-https://kallisti.blog/2018/05/11/household-worship-brass-tacks-style/
-
-
-
 I pray after showering. For me, those habits are linked. Whenever I shower later in the day — for instance, if I've returned from the gym — I immediately think of the prayer beads at one of my shrines.
 
 When I was just starting out with prayer, this is how my mornings would go:
@@ -81,9 +52,9 @@ Sometimes, mental purity is very easy. Sometimes, calming one's mind is like try
 
 There are times when I've imprudently checked email before my morning prayers and have been slammed with every awful thing in the world or a to-do list item that sets me into a panic. It can be a rainy day, or a day with horrible weather waiting for me, and I am already tense just looking outside and thinking of how on Earth I am going to get to work without slipping on ice. Rarely, arguments or bad life experiences can linger for days, even weeks. We all have things going on in our lives.
 
-What I find useful during those charged days is to slow down. I try — often unsuccessfully, but we're all works in progress — to avoid checking email and social media before praying so I don't see things that make my stomach churn. I do a two-minute mindfulness meditation with an app to wind myself down.
+What I find useful during those charged days is to slow down. I try — often unsuccessfully, but we're all works in progress — to avoid checking email and social media before praying so I don't see things that make my stomach churn. I do a two-minute mindfulness meditation with an app to wind myself down. One book I've appreciated so far this year is *Pause, Rest, Be* by Octavia F. Raheem.
 
-It can be useful to have backup plans in case this happens to you: Slowing down, you will not have as much time, which could stress you out even more if you haven't planned ahead. We all know that things will happen to disrupt our schedules, some of them inevitable. Plan for the inevitable — pick a mindfulness technique to use in times of duress, and plan out different lengths of your rituals.
+It can be useful to have backup plans for when mental disquiet happens to you: Slowing down, you will not have as much time, which could stress you out even more if you haven't planned ahead. We all know that things will happen to disrupt our schedules, some of them inevitable. Plan for the inevitable — pick a mindfulness technique to use in times of duress, and plan out different lengths of your rituals.
 
 Some options for mindfulness techniques were listed in Chapter One > Contemplative Practices > Foundations.
 
@@ -91,7 +62,7 @@ Non-meditation mental purification techniques I recommend include:
 
 * **Take a social media break.** Pick one or two days each week to uninstall and block all of your social media apps — it works best if the days are always the same. Ensure that anyone who absolutely needs to speak to you has your contact information, and plan on what you will do while disconnected. If you are very online, this will not feel pleasant due to the dopamine withdrawal, so plan a few more self-care activities than you think you need. Don't pray and tweet.
 * **Write out your to-do lists or do a thought dump.** This is especially useful for anyone who wakes up with a sudden awareness of everything that needs to happen that day. Use paper or your favorite app.
-* **Listen to music on an upbeat playlist, preferably without lyrics.** It's harder to get earworms when you're listening to instrumental music, and music has such power to restore mood. You can find happy and upbeat playlists that feature jazz, classical, ambient, or whichever genre you love.
+* **Listen to music on an upbeat playlist, preferably without lyrics.** It's harder to get earworms when you're listening to instrumental music (and, speaking from experience, it can be very distracting to pray with a song stuck in my head!), and music has such power to restore mood. You can find happy and upbeat playlists that feature jazz, classical, ambient, or whichever genre you love.
 * **Get enough sleep.** Sleep power-washes your brain and makes you ready for the next day. Do what you need to do to get to bed earlier.
 
 

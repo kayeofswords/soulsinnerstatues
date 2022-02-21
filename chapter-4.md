@@ -1,16 +1,3 @@
-- The Mechanics of Devotional Activity
-	- Connecting to the God(s)
-	- Requesting things from the God(s)
-	- Acknowledging cycles
-	- Opening and closing prayers
-	- Example daily prayer
-	- Example new moon prayer
-	- Exercise: Create your own outline for a 5-10 minute prayer and offer that prayer in ritual. Make any edits you need to make, and ensure that a copy of that ritual outline (with all components) is on your phone or eReader so you can access it on the go
-	
-https://kallisti.blog/2019/08/03/what-you-can-do-in-10-15-minutes/ (offerings)
-https://kallisti.blog/2020/07/18/a-miscellany-of-quotations-proclus-discusses-prayer-in-book-ii-of-the-timaeus-commentary/ (prayer and theological underpinnings)
-
-
 This chapter is about the mechanics of devotional activity — or, building on the successes you have built in previous chapters through establishing and maintaining a core ritual practice to enliven the rhythm of your life. Human lives are not the same from season to season, year to year, and decade to decade. We have life stages. The stars and planets trace out their orbits.
 
 Within our human lifetimes, there are times when we all pray for things we need in our lives: success at work, a new job, the satisfactory resolution of difficult interpersonal interactions, a better apartment, the ability to get to a flight on time.
