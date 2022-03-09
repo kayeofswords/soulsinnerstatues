@@ -1,0 +1,22 @@
+--- 
+title: "The Soul's Inner Statues"
+author: "Kaye Boesme"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+# bibliography: [book.bib, packages.bib]
+# biblio-style: apalike
+# link-citations: yes
+cover-image: soulsinnerstatues.png
+github-repo: kayeofswords/soulsinnerstatues
+description: "*The Soul’s Inner Statues is an open access primer on worshipping many Gods, combining theology and practice with practical advice to get you started."
+---
+
+# Welcome!
+
+*The Soul’s Inner Statues* is a guidebook for anyone who wants to get started worshipping many Gods. The book is based on blog posts, with additional information and contexts, on [KALLISTI](https://kallisti.blog), and on a blog of the same name that preexisted it. Most content was sourced from posts dating between 2009-2022.
+
+<p><img src="soulsinnerstatues.png" alt="Book cover" style="float:center;width:200px;"></p>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">The Soul's Inner Statues</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/kayeofswords/soulsinnerstatues" property="cc:attributionName" rel="cc:attributionURL">Kaye Boesme</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. This means that anyone can take this book (recommended: use the GitHub source code) and create a new book based on it as long as you share in kind. If you decide to do this, I recommend replacing first-person anecdotes in the book with your own or referring to me in the third person (i.e., “Kaye Boesme says that she …”).
