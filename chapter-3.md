@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 I pray after showering. For me, those habits are linked. Whenever I shower later in the day — for instance, if I’ve returned from the gym — I immediately think of the prayer beads at one of my shrines.
 
 When I was just starting out with prayer, this is how my mornings would go:
