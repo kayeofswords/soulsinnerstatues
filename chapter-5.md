@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Throughout the first part of this book, we built up the foundations of ritual practice that you can bring forward into your life. 
 
 Ritual practices, like most routines, will iterate. You will go through seasons of your life when five minutes *is* all you have and other seasons when you can, and want, to do more. There will be days when showing up at shrine will be the last thing on your mind — maybe you're anxious over an unexpected bill, you’ve lost a job, or someone in your family is going through a hard time — and other times when you feel the abundant presence of the universe all around you.
