@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 This chapter is titled *Foundations* because we will dive a bit deeper into thinking about Gods now, at the outset. It is also titled *Foundations* because the main practice at the end of this chapter involves the cleared-off section of shelf and small bowl I mentioned in the introduction.
 
 Specifically, we will look at what Gods actually are, and we will use Plato’s *Laws* to unpack some common pitfalls that happen when we think about them — mindsets that most of us may have slipped into at some point or other in our lives. We will then consider the foundations of contemplative practices, ritual practices, and household observances. Finally, you will have an opportunity to do some brief veneration on your own.
