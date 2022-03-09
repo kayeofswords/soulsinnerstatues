@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 This chapter is about the mechanics of devotional activity — or, building on the spiritual habits you have already been engaging in to set yourself up for long-term success. Human lives are not the same from season to season, year to year, and decade to decade. The stars and planets trace out their orbits. We change jobs. We marry. We achieve some things and fail at others. We die.
 
 Within our human lifetimes, there are times when we all pray for things we need in our lives: success at work, a new job, the satisfactory resolution of difficult interpersonal interactions, a better apartment, the ability to get to a flight on time.
