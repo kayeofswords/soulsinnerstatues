@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 We devoted much of the last chapter to discussing many Gods, and we ended with some essentials: household worship and taking time for contemplation. In this chapter, we will build on that and pick one or two more Gods to worship — and, for now, no more than that.
 
 It is not necessary to worship every single God every day (that would be impossible), just as one cannot be friends with every human being in the world or every sentient being in the cosmos. Beyond worshipping the household Gods and divinities, and perhaps ancestor worship, many people only have the bandwidth for a handful more before their attention is too scattered to have a deep and meaningful practice — and *The Soul’s Inner Statues* is focused on breaking down the steps to work towards such a practice. Sometimes, a person may decide to pray to a collective of Gods: the Muses, for example, or the Fates, Matronae, Attendants of Frigg, Gods of Civic Discourse, Storm Gods, and so on. In my personal practice, I usually pray to the Muses as a collective. Others may devote prayers to all of the Gods in general — often using names and terminology relevant to a specific cultural grouping of Gods, such as the twelve Olympians in Plato's *Phaedrus* or a set of major Roman, Nordic, Celtic, Gaulish, or other deities. 
