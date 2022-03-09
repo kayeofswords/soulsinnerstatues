@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Acknowledgments
 
 When I started praying to Bast at the age of nine, and at ten when my parents first brought me to Circle, the world was very different. As a kid, my dad would take me to the mall to Waldenbooks, where I perused the spirituality section (all four shelves) and the discount books on display at the front of the store. My mother would take me to the Opened Book in Hannibal, MO, where I purchased ritual supplies and books. As most children do, I acquired most of those early items by pleading; when I was 15 and able to work, I used my pocket money. The community in the Hannibal, MO, area was the best thing that happened to me as a child, a bright star. I dearly hope that everyone who knew me as a child, teen, and young adult forgives my embarrassing flaws and accepts my gratitude, both in that community and in the community I joined when I went to college. I am extremely grateful for the communities of affinity I have fallen into over the past few years — while many have lamented the pandemic for a lack of closeness, Zoom has brought me to so many amazing people. You know who you are if you are reading this. I also acknowledge my more recent interlocutors on the blogosphere and social media — we are all taking a journey together, as parasocial as it may be, regardless of how well we know each other. Growth by fire is lasting.
