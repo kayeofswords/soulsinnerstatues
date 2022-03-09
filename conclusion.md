@@ -1,4 +1,4 @@
-We started off this primer by talking about the Gods and introducing ourselves to them. In seven chapters, we went through a whirlwind of information about getting started with a ritual practice, all framed as an uncovering of our soul's inner statues and our relationship to the Gods who root us to them.
+We started off this primer by talking about the Gods and introducing ourselves to them. In seven chapters, we went through a whirlwind of information about getting started with a ritual practice, all framed as an uncovering of our soul’s inner statues and our relationship to the Gods who root us to them.
 
 It goes without saying that all spiritual practices are iterative. There are things I do now that I did not do when I was twenty; there are things I will do at fifty that I do not do now in my mid-30s. The same is true for all of us.
 
