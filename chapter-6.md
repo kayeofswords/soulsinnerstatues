@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 >Virtue might be described as the perfection of the soul and proper balance of its life and as the highest and purest activity of reason and intellect and discursive intelligence. Let the acts of virtue be taken, above all, as being boniform, excellently fine, intellectual, noble, full of moderation, participant in appropriateness, promoting moral advancement, aiming at the best end, and graceful.  
 Iamblichus, Letter 16: To Sopater, "On Virtue," trans. Dillon and Polleichtner
 
