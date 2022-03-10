@@ -21,7 +21,7 @@ The book is based on blog posts, with additional information and contexts, on [K
 
 [You can download an ePub of this book (compatible with most eReading apps, including Google Play Books and Apple iBooks) here.](souls-inner-statues.epub)
 
-There is an in-progress PDF located (in the GitHub codebase)[https://github.com/kayeofswords/soulsinnerstatues/tree/master/docs].
+There is an in-progress PDF located [in the GitHub codebase](https://github.com/kayeofswords/soulsinnerstatues/tree/master/docs).
 
 <p><img src="soulsinnerstatues.png" alt="Book cover" style="float:center;width:100%;"></p>
 

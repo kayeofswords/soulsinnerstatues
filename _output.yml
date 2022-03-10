@@ -2,7 +2,7 @@ bookdown::gitbook:
   css: style.css
   config:
     fontsettings:
-      family: serif
+      family: Georgia
       theme: night
       size: 3
     toc:
