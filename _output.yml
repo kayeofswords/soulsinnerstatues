@@ -13,7 +13,7 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: NULL
-    download: ["soulsinnerstatues.epub", "soulsinnerstatues.mobi", "souls-inner-statues.pdf"]
+    download: ["soulsinnerstatues.epub", "souls-inner-statues.mobi", "souls-inner-statues.pdf"]
     toolbar:
        position: fixed
     search:
