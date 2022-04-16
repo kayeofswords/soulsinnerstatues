@@ -2,18 +2,26 @@ bookdown::gitbook:
   css: style.css
   config:
     fontsettings:
-      family: Georgia
-      theme: night
-      size: 3
+      family: serif
+      theme: day
+      size: 2
     toc:
+      collapse: subsection
+      scroll_highlight: true
       before: |
-        <li><a href="./">A Minimal Book Example</a></li>
+        <li><a href="./">The Soul's Inner Statues</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
-    download: ["pdf", "epub"]
+    edit: NULL
+    download: ["soulsinnerstatues.epub", "soulsinnerstatues.mobi", "souls-inner-statues.pdf"]
     toolbar:
        position: fixed
+    search:
+       engine: lunr
+       options: null
+    sharing:
+       facebook: true
+       twitter: true
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
