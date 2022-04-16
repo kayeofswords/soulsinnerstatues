@@ -16,3 +16,23 @@ pre code {
 p.font {
   font-family: serif;
 }
+
+/* unvisited link */
+a:link {
+  color: darkgray;
+}
+
+/* visited link */
+a:visited {
+  color: indianred;
+}
+
+/* mouse over link */
+a:hover {
+  color: lightgrey;
+}
+
+/* selected link */
+a:active {
+  color: grey;
+}
