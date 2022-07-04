@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.25)  1 JUL 2022 17:42
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.25)  4 JUL 2022 15:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1046,9 +1046,9 @@ Chapter 2.
 Chapter 3.
 [13
 
-] [14] [15] [16] [17] [18] [19]
+] [14] [15] [16] [17] [18] [19] [20]
 Missing character: There is no β in font [lmroman10-regular]:mapping=tex-text;!
-[20] [21] [22] [23] [24]
+[21] [22] [23] [24]
 Missing character: There is no ἰ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no γ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ν in font [lmroman10-regular]:mapping=tex-text;!
@@ -1149,17 +1149,11 @@ Missing character: There is no ῶ in font [lmroman10-regular]:mapping=tex-text;
 Missing character: There is no ς in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ῶ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ς in font [lmroman10-regular]:mapping=tex-text;!
-[25]
-Underfull \vbox (badness 2922) has occurred while \output is active []
-
-[26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38
+[25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38
 
 ]
 Chapter 4.
-
-Underfull \vbox (badness 1137) has occurred while \output is active []
-
-[39] [40] [41] [42] [43] [44] [45]
+[39] [40] [41] [42] [43] [44] [45] [46]
 Missing character: There is no γ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ν in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ῶ in font [lmroman10-regular]:mapping=tex-text;!
@@ -1172,77 +1166,80 @@ Missing character: There is no υ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no τ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ό in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ν in font [lmroman10-regular]:mapping=tex-text;!
-[46] [47] [48]
-Underfull \vbox (badness 2698) has occurred while \output is active []
-
-
+[47] [48]
 Overfull \hbox (6.45782pt too wide) has occurred while \output is active
 \TU/lmr/m/sl/10 4.3.  APPROPRIATION, APPRECIATION, AND CULTURAL RECEPTION \TU/l
 mr/m/n/10 49
  []
 
-[49] [50] [51] [52]
-Chapter 5.
-[53
+[49] [50]
+Overfull \hbox (6.45782pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 4.3.  APPROPRIATION, APPRECIATION, AND CULTURAL RECEPTION \TU/l
+mr/m/n/10 51
+ []
 
-] [54] [55] [56] [57] [58] [59] [60]
+[51] [52] [53] [54
+
+]
+Chapter 5.
+[55] [56] [57] [58] [59] [60] [61] [62]
 Chapter 6.
-[61
+[63
 
 ]
 Missing character: There is no ➡ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⬅ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
-[62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76]
+[64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
 Chapter 7.
-[77
+[79
 
-] [78] [79] [80] [81] [82] [83] [84
+] [80] [81] [82] [83] [84] [85] [86
 
 ]
 Chapter 8.
-[85] [86]
+[87] [88]
 Missing character: There is no ➡ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⬅ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
-[87]
+[89]
 Underfull \vbox (badness 2173) has occurred while \output is active []
 
-[88] [89] [90]
+[90] [91] [92]
 Chapter 9.
-[91
+[93
 
 ]
 Missing character: There is no ➡ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⬅ in font [lmroman10-regular]:mapping=tex-text;!
-[92] [93] [94] [95] [96] [97] [98] [99] [100]
+[94] [95] [96] [97] [98] [99] [100] [101] [102]
 Missing character: There is no ṁ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman10-regular]:mapping=tex-text;!
-[101] [102]
+[103] [104]
 Chapter 10.
-[103
+[105
 
-] [104
+] [106
 
 ]
 Chapter 11.
-[105] [106]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1920.
-[107]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1920.
+[107] [108]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1925.
+[109]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1925.
 (./souls-inner-statues.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1920.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1920.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1925.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1925.
  ) 
 Here is how much of TeX's memory you used:
  27124 strings out of 492956
- 484581 string characters out of 6133501
- 709446 words of memory out of 5000000
+ 484620 string characters out of 6133501
+ 709448 words of memory out of 5000000
  30874 multiletter control sequences out of 15000+600000
  538675 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,6n,116p,2122b,549s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on souls-inner-statues.pdf (107 pages).
+Output written on souls-inner-statues.pdf (109 pages).

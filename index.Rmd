@@ -19,7 +19,7 @@ description: "*The Soul’s Inner Statues is an open access primer on worshippin
 
 *The Soul’s Inner Statues* is a guidebook for anyone who wants to get started worshipping many Gods, written from a slightly Platonizing framework. It is designed to be broadly relevant.
 
-The book is based on blog posts, with additional information and contexts, on [KALLISTI](https://kallisti.blog), and on a blog of the same name that preexisted it. Most content was sourced from posts dating between 2009-2022. Currently, as of 9 March 2022, this project is in a **public beta** phase, with revisions anticipated over the summer. Feedback may be directed to kallisti [@] fea [.] st. You can also [log an Issue in GitHub](https://github.com/kayeofswords/soulsinnerstatues/).
+The book is based on blog posts, with additional information and contexts, on [KALLISTI](https://kallisti.blog), and on a blog of the same name that preexisted it. Most content was sourced from posts dating between 2009-2022. The public beta was released in March 2022 in a **public beta** phase, and revisions started on 1 July 2022 — as of 4 July 2022, the Introduction, Foundations, Gods, and Purification chapters have all been updated. Feedback may be directed to kallisti [@] fea [.] st. You can also [log an Issue in GitHub](https://github.com/kayeofswords/soulsinnerstatues/).
 
 [You can download an ePub of this book (compatible with most eReading apps, including Google Play Books and Apple iBooks) here.](souls-inner-statues.epub)
 
