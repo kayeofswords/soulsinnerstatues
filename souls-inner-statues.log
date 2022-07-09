@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.25)  4 JUL 2022 15:20
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.25)  8 JUL 2022 20:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1167,10 +1167,7 @@ Missing character: There is no τ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ό in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ν in font [lmroman10-regular]:mapping=tex-text;!
 [47] [48]
-Overfull \hbox (6.45782pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10 4.3.  APPROPRIATION, APPRECIATION, AND CULTURAL RECEPTION \TU/l
-mr/m/n/10 49
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [49] [50]
 Overfull \hbox (6.45782pt too wide) has occurred while \output is active
@@ -1178,68 +1175,68 @@ Overfull \hbox (6.45782pt too wide) has occurred while \output is active
 mr/m/n/10 51
  []
 
-[51] [52] [53] [54
-
-]
+[51] [52] [53] [54]
 Chapter 5.
-[55] [56] [57] [58] [59] [60] [61] [62]
+[55
+
+] [56] [57] [58] [59] [60] [61] [62]
 Chapter 6.
 [63
 
-]
+] [64]
 Missing character: There is no ➡ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⬅ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
-[64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
+[65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80
+
+]
 Chapter 7.
-[79
-
-] [80] [81] [82] [83] [84] [85] [86
-
-]
+[81] [82] [83] [84] [85] [86] [87] [88] [89] [90]
 Chapter 8.
-[87] [88]
+[91
+
+] [92]
 Missing character: There is no ➡ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⬅ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
-[89]
+[93]
 Underfull \vbox (badness 2173) has occurred while \output is active []
 
-[90] [91] [92]
+[94] [95] [96]
 Chapter 9.
-[93
+[97
 
 ]
 Missing character: There is no ➡ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⬅ in font [lmroman10-regular]:mapping=tex-text;!
-[94] [95] [96] [97] [98] [99] [100] [101] [102]
+[98] [99] [100] [101] [102] [103] [104] [105] [106]
 Missing character: There is no ṁ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman10-regular]:mapping=tex-text;!
-[103] [104]
+[107] [108]
 Chapter 10.
-[105
+[109
 
-] [106
+] [110
 
 ]
 Chapter 11.
-[107] [108]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1925.
-[109]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1925.
+[111] [112]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1983.
+[113]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1983.
 (./souls-inner-statues.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1925.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1925.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1983.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1983.
  ) 
 Here is how much of TeX's memory you used:
  27124 strings out of 492956
- 484620 string characters out of 6133501
- 709448 words of memory out of 5000000
+ 484626 string characters out of 6133501
+ 710450 words of memory out of 5000000
  30874 multiletter control sequences out of 15000+600000
  538675 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,6n,116p,2122b,549s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on souls-inner-statues.pdf (109 pages).
+Output written on souls-inner-statues.pdf (113 pages).
