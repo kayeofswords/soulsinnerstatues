@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.25)  10 JUL 2022 15:13
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.25)  28 JUL 2022 18:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1149,10 +1149,10 @@ Missing character: There is no ῶ in font [lmroman10-regular]:mapping=tex-text;
 Missing character: There is no ς in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ῶ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ς in font [lmroman10-regular]:mapping=tex-text;!
-[25] [26] [27] [28] [29] [30]
-Underfull \vbox (badness 2698) has occurred while \output is active []
+[25] [26] [27] [28] [29] [30] [31] [32]
+Underfull \vbox (badness 7397) has occurred while \output is active []
 
-[31] [32] [33] [34] [35] [36] [37] [38
+[33] [34] [35] [36] [37] [38
 
 ]
 Chapter 4.
@@ -1208,37 +1208,59 @@ Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;
 
 ]
 Chapter 9.
-[99] [100]
+[99]
 Missing character: There is no ➡ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⬅ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
-[101] [102] [103] [104] [105] [106] [107] [108]
-Missing character: There is no ṁ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman10-regular]:mapping=tex-text;!
-[109] [110] [111] [112
+[100]
+Missing character: There is no ➡ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ⬅ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
+[101] [102] [103] [104] [105] [106]
+Underfull \vbox (badness 3009) has occurred while \output is active []
 
-]
+[107] [108] [109]
+Missing character: There is no ṁ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman10-regular]:mapping=tex-text;!
+[110] [111] [112]
 Chapter 10.
-[113] [114
+[113
+
+] [114
 
 ]
 Chapter 11.
 [115] [116]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1999.
-[117]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1999.
+Overfull \hbox (214.224pt too wide) in paragraph at lines 1987--1988
+[]\TU/lmr/m/n/10 “Household Deity.” In \TU/lmr/m/it/10 Wikipedia\TU/lmr/m/n/10 
+, July 9, 2022. []https://en.wikipedia.org/w/index.php?title=Household_deity&ol
+did=1097197400[] 
+ []
+
+[117] [118]
+Underfull \hbox (badness 10000) in paragraph at lines 2037--2038
+[]$[] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [
+] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [][] [][] [] [] [] [] [
+][] [][] [] [] [] [][] [] [] [] [] [] [] [][] [][] [] [] [][] [][]
+ []
+
+[119]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2082.
+[120]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2082.
 (./souls-inner-statues.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1999.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1999.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2082.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2082.
  ) 
 Here is how much of TeX's memory you used:
- 27124 strings out of 492956
- 484626 string characters out of 6133501
- 710452 words of memory out of 5000000
- 30874 multiletter control sequences out of 15000+600000
+ 27126 strings out of 492956
+ 484632 string characters out of 6133501
+ 710481 words of memory out of 5000000
+ 30876 multiletter control sequences out of 15000+600000
  538675 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,6n,116p,2122b,549s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on souls-inner-statues.pdf (117 pages).
+Output written on souls-inner-statues.pdf (120 pages).
