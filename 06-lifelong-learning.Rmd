@@ -84,6 +84,12 @@ If you don’t have access to an article directly, this is when you use interlib
 
 At least in the United States, many people who have graduated from college have graduated from institutions that provide alum access to JSTOR. Look at your alum website, and if you can’t find anything about that, contact the library. This will broaden what you can do on your own without interlibrary loan.
 
+### Using AI Output
+
+ChatGPT was released on November 30, 2022, and this is a last-minute addition in early February 2023 to the book to reflect the sea change ahead of us with how people do research. AI-based research and writing tools can be helpful for answering questions, but they should always be used in conjunction with fact-checking tools and books written by experts. AI “eats” a corpus of texts — often a very large one — that it then uses as its basis for the output it gives. It has no judgment capacity for telling what is correct and what isn’t, and the risk of using it is highest among those who are asking important questions about a topic they are less skilled in.
+
+The best way to integrate AI into research on spirituality-related topics is to figure out vocabulary and brainstorm next steps. AI is great at being a sounding board so you can prioritize the books, blog posts, and podcast interviews/episodes that will give you grounded information from people. Text-based AI like ChatGPT can also help you create a manageable research routine based on the constraints you give it. (Example: “I have an hour each weekday evening before my kids come home to focus on my goals. Give me a 45-minute routine for prayer and spiritual study that will help me meet x, y, and z goals.”) What I have noticed about AI is that it is very confused about Platonism, and its confusion likely extends to other philosophical schools. It will also frequently include incorrect information in lists and then say “yes, I was wrong, I did not give you what you asked for” when you tell it so. Use AI for what it is good at — generating output that doesn’t require a ton of thought and as a space to do more interactive freewriting — and do not outsource thinking to it.
+
 ## Finding Book Reviews
 
 If you Google an author’s name or a book title with the phrase “book review” (with the quotes around “book review”), you will find reviews that Google has indexed beyond just what’s on Amazon. If you don’t have ideas for a specific book, just put in a topic (such as divination, worshipping Kemetic Gods, Shiva in yoga, prayers for Gods):
